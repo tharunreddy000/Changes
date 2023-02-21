@@ -1,0 +1,4115 @@
+[
+    {
+        "global_id": "07b5b332606e56c06239e80a54925086",
+        "display_label": "all-votbiw-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:26:53.479Z",
+            "root_actualdeletetime": "2023-04-02T05:26:53.479Z",
+            "root_lastaccesstime": "2023-02-21T05:26:53.479Z"
+        }
+    },
+    {
+        "global_id": "413c29a96e03edde99114f9922aa088e",
+        "display_label": "ls2-vamsw-p011",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:25:55.477Z",
+            "root_actualdeletetime": "2023-04-02T06:25:55.477Z",
+            "root_lastaccesstime": "2023-02-21T06:25:55.477Z"
+        }
+    },
+    {
+        "global_id": "45685daef06853f9a11a5602d6a3526d",
+        "display_label": "ohwinap9001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:26:13.009Z",
+            "root_actualdeletetime": "2023-04-02T05:26:13.009Z",
+            "root_lastaccesstime": "2023-02-21T05:26:13.009Z"
+        }
+    },
+    {
+        "global_id": "4ce6a4c67216c8eaaca88e4db76dee70",
+        "display_label": "ls2-vamsw-p012",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:01:24.974Z",
+            "root_actualdeletetime": "2023-04-02T06:01:24.974Z",
+            "root_lastaccesstime": "2023-02-21T06:01:24.974Z"
+        }
+    },
+    {
+        "global_id": "8fae6ad8c4735fdfb86dd1b0df5aa0dd",
+        "display_label": "lit-vamsw-p016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:27:30.932Z",
+            "root_actualdeletetime": "2023-04-02T05:27:30.932Z",
+            "root_lastaccesstime": "2023-02-21T05:27:30.932Z"
+        }
+    },
+    {
+        "global_id": "2c109d0a770dd18ba83e35aaf5ce0c69",
+        "display_label": "ohio014",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:07:25.401Z",
+            "root_actualdeletetime": "2023-04-02T05:07:25.401Z",
+            "root_lastaccesstime": "2023-02-21T05:07:25.401Z"
+        }
+    },
+    {
+        "global_id": "4214cb5f539fdb39291d388f460ce33f",
+        "display_label": "ohap9022",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:10:45.700Z",
+            "root_actualdeletetime": "2023-04-02T06:10:45.700Z",
+            "root_lastaccesstime": "2023-02-21T06:10:45.700Z"
+        }
+    },
+    {
+        "global_id": "d3c7b3c14fa2d5c0a34f3b2e995e3202",
+        "display_label": "all-vams-p058",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:51:08.716Z",
+            "root_actualdeletetime": "2023-04-02T05:51:08.716Z",
+            "root_lastaccesstime": "2023-02-21T05:51:08.716Z"
+        }
+    },
+    {
+        "global_id": "4675e14ca46ba59c91e3d437f3d6648c",
+        "display_label": "lit-vams-b042",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:35:07.906Z",
+            "root_actualdeletetime": "2023-04-02T06:35:07.906Z",
+            "root_lastaccesstime": "2023-02-21T06:35:07.906Z"
+        }
+    },
+    {
+        "global_id": "a1bc8f7fb62599b5a17a687ca004fe93",
+        "display_label": "ams252",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:10.551Z",
+            "root_actualdeletetime": "2023-04-02T05:39:10.551Z",
+            "root_lastaccesstime": "2023-02-21T05:39:10.551Z"
+        }
+    },
+    {
+        "global_id": "47793c518a478f9eb4f79dc3857bc8b0",
+        "display_label": "lit-vwms-p005",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:16:21.236Z",
+            "root_actualdeletetime": "2023-04-02T05:16:21.236Z",
+            "root_lastaccesstime": "2023-02-21T05:16:21.236Z"
+        }
+    },
+    {
+        "global_id": "432747f4344c362183dcb9176af675f9",
+        "display_label": "osa-vwme-p003",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "5263d27dddad4f5a2733d5cca3298627",
+        "display_label": "all-vaweb-b004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:14:20.084Z",
+            "root_actualdeletetime": "2023-03-30T05:14:20.084Z",
+            "root_lastaccesstime": "2023-02-18T05:14:20.084Z"
+        }
+    },
+    {
+        "global_id": "4065356a8a65c3ae943081daeb0d1ce3",
+        "display_label": "tok-vwms-b012",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:38:47.153Z",
+            "root_actualdeletetime": "2023-04-01T05:38:47.153Z",
+            "root_lastaccesstime": "2023-02-20T05:38:47.153Z"
+        }
+    },
+    {
+        "global_id": "d969d8aaa04646bad34e0f4c113d82ff",
+        "display_label": "osa-vams-p058",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:47:23.307Z",
+            "dns_servers": [
+                "10.36.17.106",
+                "10.36.17.173",
+                "10.36.17.53",
+                "10.36.17.174",
+                "10.36.17.107"
+            ],
+            "root_actualdeletetime": "2023-04-02T05:47:23.307Z",
+            "root_lastaccesstime": "2023-02-21T05:47:23.307Z"
+        }
+    },
+    {
+        "global_id": "3d1a54c1ed5372b9205a4103c198e17c",
+        "display_label": "all-vacp-s005",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:38:12.768Z",
+            "root_actualdeletetime": "2023-04-02T06:38:12.768Z",
+            "root_lastaccesstime": "2023-02-21T06:38:12.768Z"
+        }
+    },
+    {
+        "global_id": "73c5eb2f0312ca29c4d04afb6aebd2f0",
+        "display_label": "all-vwms-z004",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "1c23697983d6256f3324cfaa9fd7b9c8",
+        "display_label": "all-vams-b212",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:21:45.131Z",
+            "root_actualdeletetime": "2023-04-02T05:21:45.131Z",
+            "root_lastaccesstime": "2023-02-21T05:21:45.131Z"
+        }
+    },
+    {
+        "global_id": "cdd580f3f7094076a4ed3bcd77c7cda8",
+        "display_label": "ls2-vams-b009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:19:28.457Z",
+            "root_actualdeletetime": "2023-04-02T05:19:28.457Z",
+            "root_lastaccesstime": "2023-02-21T05:19:28.457Z"
+        }
+    },
+    {
+        "global_id": "e836b749f51de273fb026f20698085cc",
+        "display_label": "ohio692",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:43:09.522Z",
+            "root_actualdeletetime": "2023-04-02T06:43:09.522Z",
+            "root_lastaccesstime": "2023-02-21T06:43:09.522Z"
+        }
+    },
+    {
+        "global_id": "29c89965fcf8c9513dbcec1758032487",
+        "display_label": "ams-vwcp-p003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:36:38.423Z",
+            "root_actualdeletetime": "2023-04-02T06:36:38.423Z",
+            "root_lastaccesstime": "2023-02-21T06:36:38.423Z"
+        }
+    },
+    {
+        "global_id": "45a7e402bdda7c72895b6623e87a0fd6",
+        "display_label": "lit-vame-p012",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:03:34.476Z",
+            "root_actualdeletetime": "2023-04-02T06:03:34.476Z",
+            "root_lastaccesstime": "2023-02-21T06:03:34.476Z"
+        }
+    },
+    {
+        "global_id": "43232e73a2ddf95ea8d1c534bb25512b",
+        "display_label": "ohdb0210",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:09:28.106Z",
+            "root_actualdeletetime": "2023-04-02T05:09:28.106Z",
+            "root_lastaccesstime": "2023-02-21T05:09:28.106Z"
+        }
+    },
+    {
+        "global_id": "62b99617371d065927285560baed3cd1",
+        "display_label": "osa-vams-p053",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:28.738Z",
+            "root_actualdeletetime": "2023-04-02T05:38:28.738Z",
+            "root_lastaccesstime": "2023-02-21T05:38:28.738Z"
+        }
+    },
+    {
+        "global_id": "480ece725c451fe889ebadb9fd6a7e86",
+        "display_label": "lit-vams-b268",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:42:35.193Z",
+            "root_actualdeletetime": "2023-04-02T06:42:35.193Z",
+            "root_lastaccesstime": "2023-02-21T06:42:35.193Z"
+        }
+    },
+    {
+        "global_id": "b5298b7cf6f9943b9cb0b15627d0e81c",
+        "display_label": "all-vach-p007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:47:53.704Z",
+            "root_actualdeletetime": "2023-03-30T05:47:53.704Z",
+            "root_lastaccesstime": "2023-02-18T05:47:53.704Z"
+        }
+    },
+    {
+        "global_id": "9f9b73e235c815cca62c17cc0a45c616",
+        "display_label": "lit-vwms-b004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:37:09.221Z",
+            "root_actualdeletetime": "2023-04-02T05:37:09.221Z",
+            "root_lastaccesstime": "2023-02-21T05:37:09.221Z"
+        }
+    },
+    {
+        "global_id": "724178c36d0c0c70dfa43a9427645314",
+        "display_label": "all-vams-p012",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:37:33.737Z",
+            "root_actualdeletetime": "2023-04-02T05:37:33.737Z",
+            "root_lastaccesstime": "2023-02-21T05:37:33.737Z"
+        }
+    },
+    {
+        "global_id": "59ee9ba9b4f85b4aca3538bd58b6506f",
+        "display_label": "all-vacp-p009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:35:09.975Z",
+            "root_actualdeletetime": "2023-03-30T05:35:09.975Z",
+            "root_lastaccesstime": "2023-02-18T05:35:09.975Z"
+        }
+    },
+    {
+        "global_id": "5acf91418ce2cf73b55441984df879ac",
+        "display_label": "lit-vams-p010",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:16:48.423Z",
+            "root_actualdeletetime": "2023-04-02T06:16:48.423Z",
+            "root_lastaccesstime": "2023-02-21T06:16:48.423Z"
+        }
+    },
+    {
+        "global_id": "a45da853365d324e2ab84497632e14d8",
+        "display_label": "lit-vams-b036",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:03:58.805Z",
+            "dns_servers": [
+                "10.136.209.73",
+                "10.136.209.74",
+                "150.105.166.137",
+                "150.105.166.106"
+            ],
+            "root_actualdeletetime": "2023-04-02T05:03:58.805Z",
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ],
+            "root_lastaccesstime": "2023-02-21T05:03:58.805Z"
+        }
+    },
+    {
+        "global_id": "e68077eb21f9b50d277967ecbb0d549e",
+        "display_label": "lit-vams-p163",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:59.286Z",
+            "root_actualdeletetime": "2023-04-02T05:39:59.286Z",
+            "root_lastaccesstime": "2023-02-21T05:39:59.286Z"
+        }
+    },
+    {
+        "global_id": "06c25e3fb80f017711c916bae9f796b8",
+        "display_label": "lit-vams-b013",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:49:48.559Z",
+            "root_actualdeletetime": "2023-04-02T05:49:48.559Z",
+            "root_lastaccesstime": "2023-02-21T05:49:48.559Z"
+        }
+    },
+    {
+        "global_id": "f61cb322068e2cdad44869f67589087c",
+        "display_label": "lit-vams-p145",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:19:26.019Z",
+            "root_actualdeletetime": "2023-04-02T06:19:26.019Z",
+            "root_lastaccesstime": "2023-02-21T06:19:26.019Z"
+        }
+    },
+    {
+        "global_id": "6dab36c7f317e003c61a9cd9a949adb0",
+        "display_label": "ohio144",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:08:44.683Z",
+            "root_actualdeletetime": "2023-04-02T06:08:44.683Z",
+            "root_lastaccesstime": "2023-02-21T06:08:44.683Z"
+        }
+    },
+    {
+        "global_id": "f36d5f224c98d6d6ee94c200c9a2ae2c",
+        "display_label": "ams221",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:55:35.438Z",
+            "root_actualdeletetime": "2023-04-02T05:55:35.438Z",
+            "root_lastaccesstime": "2023-02-21T05:55:35.438Z"
+        }
+    },
+    {
+        "global_id": "d79780960480a81d9767f5fcfe310e08",
+        "display_label": "wok-vams-p115",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:29:26.824Z",
+            "root_actualdeletetime": "2023-04-02T06:29:26.824Z",
+            "root_lastaccesstime": "2023-02-21T06:29:26.824Z"
+        }
+    },
+    {
+        "global_id": "da4e43b3adc18440a14308f6bb793e57",
+        "display_label": "lit-vacp-b016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:26:50.431Z",
+            "root_actualdeletetime": "2023-04-02T06:26:50.431Z",
+            "root_lastaccesstime": "2023-02-21T06:26:50.431Z"
+        }
+    },
+    {
+        "global_id": "1df2446b57896dd6f4687e6e97f057f5",
+        "display_label": "ohio153",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:03:54.570Z",
+            "root_actualdeletetime": "2023-04-02T05:03:54.570Z",
+            "root_lastaccesstime": "2023-02-21T05:03:54.570Z"
+        }
+    },
+    {
+        "global_id": "2304a23aefebc8921290e0cd37b8ab8b",
+        "display_label": "tok-vams-p053",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:51:54.967Z",
+            "root_actualdeletetime": "2023-04-02T05:51:54.967Z",
+            "root_lastaccesstime": "2023-02-21T05:51:54.967Z"
+        }
+    },
+    {
+        "global_id": "4080d65e459e6e17bbdd655d542a7ddc",
+        "display_label": "tok-vwms-p014",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:00:16.754Z",
+            "root_actualdeletetime": "2023-04-02T06:00:16.754Z",
+            "root_lastaccesstime": "2023-02-21T06:00:16.754Z"
+        }
+    },
+    {
+        "global_id": "8ae5f9b8b97ba10d3517e2d55bcf4798",
+        "display_label": "ls2-vams-b017",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:08:55.668Z",
+            "root_actualdeletetime": "2023-04-02T05:08:55.668Z",
+            "root_lastaccesstime": "2023-02-21T05:08:55.668Z"
+        }
+    },
+    {
+        "global_id": "8022de3199f5b8297a3c815ac54b21ec",
+        "display_label": "all-vams-p015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:05:47.629Z",
+            "root_actualdeletetime": "2023-03-29T06:05:47.629Z",
+            "root_lastaccesstime": "2023-02-17T06:05:47.629Z"
+        }
+    },
+    {
+        "global_id": "06c58210882a5e95879dbeb63b693905",
+        "display_label": "all-vacp-b016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:45.442Z",
+            "root_actualdeletetime": "2023-04-02T05:39:45.442Z",
+            "root_lastaccesstime": "2023-02-21T05:39:45.442Z"
+        }
+    },
+    {
+        "global_id": "496582797078198f9a9a8c9bd00e7e0d",
+        "display_label": "lit-vadl-p008",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:12:18.713Z",
+            "root_actualdeletetime": "2023-03-29T06:12:18.713Z",
+            "root_lastaccesstime": "2023-02-17T06:12:18.713Z"
+        }
+    },
+    {
+        "global_id": "d7468055ce4a30add79e2a4bd6f65c2b",
+        "display_label": "ams-vwcp-b007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:24:33.211Z",
+            "root_actualdeletetime": "2023-04-02T05:24:33.211Z",
+            "root_lastaccesstime": "2023-02-21T05:24:33.211Z"
+        }
+    },
+    {
+        "global_id": "e737133f306bba94501f77d25fb3b110",
+        "display_label": "ohap9056",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T04:58:18.972Z",
+            "root_actualdeletetime": "2023-04-02T04:58:18.972Z",
+            "root_lastaccesstime": "2023-02-21T04:58:18.972Z"
+        }
+    },
+    {
+        "global_id": "40243aa21f2cac1d163da03245ac78c0",
+        "display_label": "lit-vams-p039",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:40:39.145Z",
+            "root_actualdeletetime": "2023-04-02T05:40:39.145Z",
+            "root_lastaccesstime": "2023-02-21T05:40:39.145Z"
+        }
+    },
+    {
+        "global_id": "4819fcabb94ed7077fb92b1e5850ab53",
+        "display_label": "ohio691",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:41:10.255Z",
+            "root_actualdeletetime": "2023-04-02T05:41:10.255Z",
+            "root_lastaccesstime": "2023-02-21T05:41:10.255Z"
+        }
+    },
+    {
+        "global_id": "79a7936082d8f3cc40427e618b2e580e",
+        "display_label": "lit-vams-p043",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:05:02.613Z",
+            "root_actualdeletetime": "2023-03-29T06:05:02.613Z",
+            "root_lastaccesstime": "2023-02-17T06:05:02.613Z"
+        }
+    },
+    {
+        "global_id": "620103b8959865d55959fb922d150d01",
+        "display_label": "all-dbrac11-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:12:32.968Z",
+            "root_actualdeletetime": "2023-04-02T05:12:32.968Z",
+            "root_lastaccesstime": "2023-02-21T05:12:32.968Z"
+        }
+    },
+    {
+        "global_id": "5cf7b85543e7fc95b44a3055b484a6b0",
+        "display_label": "bp-vdb03-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:39:33.863Z",
+            "root_actualdeletetime": "2023-04-02T06:39:33.863Z",
+            "root_lastaccesstime": "2023-02-21T06:39:33.863Z"
+        }
+    },
+    {
+        "global_id": "d103ba84b16397a22e6cc6e7bafd61d4",
+        "display_label": "lit-vams-b054",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:18:52.254Z",
+            "root_actualdeletetime": "2023-04-02T05:18:52.254Z",
+            "root_lastaccesstime": "2023-02-21T05:18:52.254Z"
+        }
+    },
+    {
+        "global_id": "b73d53afa5ecc6c79500223ab01e23fa",
+        "display_label": "ohio497",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:27:19.245Z",
+            "root_actualdeletetime": "2023-04-02T05:27:19.245Z",
+            "root_lastaccesstime": "2023-02-21T05:27:19.245Z"
+        }
+    },
+    {
+        "global_id": "1556fb53a21efdd22bc09c90cdd289b9",
+        "display_label": "wok-vams-p134",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:57:04.394Z",
+            "root_actualdeletetime": "2023-03-29T06:57:04.394Z",
+            "root_lastaccesstime": "2023-02-17T06:57:04.394Z"
+        }
+    },
+    {
+        "global_id": "3ab634d8bae627ca78b03ec311b20486",
+        "display_label": "all-vadl-s022",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:41:10.451Z",
+            "root_actualdeletetime": "2023-04-01T05:41:10.451Z",
+            "root_lastaccesstime": "2023-02-20T05:41:10.451Z"
+        }
+    },
+    {
+        "global_id": "68816c59b11331be30b4d76da9ca8cb8",
+        "display_label": "lit-vams-u057",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:29:27.481Z",
+            "root_actualdeletetime": "2023-04-02T05:29:27.481Z",
+            "root_lastaccesstime": "2023-02-21T05:29:27.481Z"
+        }
+    },
+    {
+        "global_id": "b05263cc5a1a36f04743aff43d1481e9",
+        "display_label": "am2-vams-b020",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:23:38.350Z",
+            "root_actualdeletetime": "2023-04-02T06:23:38.350Z",
+            "root_lastaccesstime": "2023-02-21T06:23:38.350Z"
+        }
+    },
+    {
+        "global_id": "69e73539280ee71f83b8c767566d28d5",
+        "display_label": "ls2-vams-b007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:03:30.726Z",
+            "root_actualdeletetime": "2023-04-02T06:03:30.726Z",
+            "root_lastaccesstime": "2023-02-21T06:03:30.726Z"
+        }
+    },
+    {
+        "global_id": "bd2e588937642929715174350ae512a8",
+        "display_label": "ams235",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:33:43.406Z",
+            "root_actualdeletetime": "2023-04-02T05:33:43.406Z",
+            "root_lastaccesstime": "2023-02-21T05:33:43.406Z"
+        }
+    },
+    {
+        "global_id": "4227a052fd4b29ba1e78a6c9d7fa3219",
+        "display_label": "osa-vams-b061",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T04:59:05.098Z",
+            "root_actualdeletetime": "2023-04-02T04:59:05.098Z",
+            "root_lastaccesstime": "2023-02-21T04:59:05.098Z"
+        }
+    },
+    {
+        "global_id": "49471024d1696c5e8dc92521cdc57b2f",
+        "display_label": "osa-vwms-b015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:36:34.205Z",
+            "root_actualdeletetime": "2023-04-02T05:36:34.205Z",
+            "root_lastaccesstime": "2023-02-21T05:36:34.205Z"
+        }
+    },
+    {
+        "global_id": "e57b856a9d3f39848a7649c739664c66",
+        "display_label": "all-vwms-p022",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:06:51.755Z",
+            "root_actualdeletetime": "2023-03-29T06:06:51.755Z",
+            "root_lastaccesstime": "2023-02-17T06:06:51.755Z"
+        }
+    },
+    {
+        "global_id": "b278812e5be7e918f4e3dd790edc1e0f",
+        "display_label": "ohio492",
+        "changed_properties": {
+            "dns_servers": [
+                "204.90.224.4",
+                "198.147.177.10",
+                "204.90.147.5",
+                "198.151.186.51"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "1f636a27225ae7911e0831d636697c3b",
+        "display_label": "tok-vams-p055",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:16:04.267Z",
+            "root_actualdeletetime": "2023-04-02T05:16:04.267Z",
+            "root_lastaccesstime": "2023-02-21T05:16:04.267Z"
+        }
+    },
+    {
+        "global_id": "e868bb971c7bf08cd5e356216db89c0a",
+        "display_label": "ams241",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:40:21.880Z",
+            "root_actualdeletetime": "2023-04-02T05:40:21.880Z",
+            "root_lastaccesstime": "2023-02-21T05:40:21.880Z"
+        }
+    },
+    {
+        "global_id": "186f5328583f70d25f75cad80c3ef5f8",
+        "display_label": "lit-vamsm-p002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:03:30.726Z",
+            "root_actualdeletetime": "2023-04-02T06:03:30.726Z",
+            "root_lastaccesstime": "2023-02-21T06:03:30.726Z"
+        }
+    },
+    {
+        "global_id": "db4b36091dce2f107ed683bbe25f6efd",
+        "display_label": "ohio541",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:56:36.548Z",
+            "root_actualdeletetime": "2023-04-02T05:56:36.548Z",
+            "root_lastaccesstime": "2023-02-21T05:56:36.548Z"
+        }
+    },
+    {
+        "global_id": "12297e138acd10442558871a8e17caff",
+        "display_label": "ohio392",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:31:49.154Z",
+            "root_actualdeletetime": "2023-04-02T05:31:49.154Z",
+            "root_lastaccesstime": "2023-02-21T05:31:49.154Z"
+        }
+    },
+    {
+        "global_id": "6cdb7b113eaa734d579677f6d647f815",
+        "display_label": "ohio597",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:04:16.648Z",
+            "root_actualdeletetime": "2023-04-02T06:04:16.648Z",
+            "root_lastaccesstime": "2023-02-21T06:04:16.648Z"
+        }
+    },
+    {
+        "global_id": "16aba882424150d9f146bd462fb23eaa",
+        "display_label": "ohio261",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:57:11.955Z",
+            "root_actualdeletetime": "2023-04-02T05:57:11.955Z",
+            "root_lastaccesstime": "2023-02-21T05:57:11.955Z"
+        }
+    },
+    {
+        "global_id": "8090912d2f71dc469a971ab7aa699115",
+        "display_label": "all-vach-p004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:06.175Z",
+            "root_actualdeletetime": "2023-04-02T05:38:06.175Z",
+            "root_lastaccesstime": "2023-02-21T05:38:06.175Z"
+        }
+    },
+    {
+        "global_id": "fb49018d0b84199d8919c0600c854058",
+        "display_label": "lit-vams-b057",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:46:20.540Z",
+            "root_actualdeletetime": "2023-04-02T05:46:20.540Z",
+            "root_lastaccesstime": "2023-02-21T05:46:20.540Z"
+        }
+    },
+    {
+        "global_id": "75248920f18b0dfade1f3848815fe042",
+        "display_label": "lit-vame-p008",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-08T05:49:20.522Z",
+            "root_actualdeletetime": "2023-03-28T05:49:20.522Z",
+            "root_lastaccesstime": "2023-02-16T05:49:20.522Z"
+        }
+    },
+    {
+        "global_id": "0c92ed64177a270d2226047f39d9a8cc",
+        "display_label": "lit-vams-b102",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:07:46.682Z",
+            "root_actualdeletetime": "2023-04-02T06:07:46.682Z",
+            "root_lastaccesstime": "2023-02-21T06:07:46.682Z"
+        }
+    },
+    {
+        "global_id": "b2b7d22d899f48d0293297bae70e5db9",
+        "display_label": "wok-vams-b020",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:57:39.127Z",
+            "root_actualdeletetime": "2023-04-02T05:57:39.127Z",
+            "root_lastaccesstime": "2023-02-21T05:57:39.127Z"
+        }
+    },
+    {
+        "global_id": "6c9d6f5a6ece5b3417b91d1ced2de617",
+        "display_label": "tok-vams-b052",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:12:49.609Z",
+            "root_actualdeletetime": "2023-04-02T05:12:49.609Z",
+            "root_lastaccesstime": "2023-02-21T05:12:49.609Z"
+        }
+    },
+    {
+        "global_id": "6a10a1573c64ded3c0b553f9bf91a531",
+        "display_label": "wok-vams-b115",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:59:14.957Z",
+            "root_actualdeletetime": "2023-04-02T05:59:14.957Z",
+            "root_lastaccesstime": "2023-02-21T05:59:14.957Z"
+        }
+    },
+    {
+        "global_id": "4eff73d3b40d4a3294accef3ba7e5cd2",
+        "display_label": "tok-vwms-p013",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:47:50.229Z",
+            "root_actualdeletetime": "2023-04-02T05:47:50.229Z",
+            "root_lastaccesstime": "2023-02-21T05:47:50.229Z"
+        }
+    },
+    {
+        "global_id": "1acd737b89184f0e072368d1cd26c679",
+        "display_label": "ohap0174",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:40:21.880Z",
+            "root_actualdeletetime": "2023-04-02T05:40:21.880Z",
+            "root_lastaccesstime": "2023-02-21T05:40:21.880Z"
+        }
+    },
+    {
+        "global_id": "a470c770055943b05c98bc62e5c57bd0",
+        "display_label": "lit-vams-p031",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:05:56.853Z",
+            "dns_servers": [
+                "10.136.209.73",
+                "150.105.166.137",
+                "10.136.209.74",
+                "150.105.166.138",
+                "150.105.166.106"
+            ],
+            "root_actualdeletetime": "2023-04-02T05:05:56.853Z",
+            "root_lastaccesstime": "2023-02-21T05:05:56.853Z"
+        }
+    },
+    {
+        "global_id": "ba5e7f17f68280c65bf2f836fb3c1ce4",
+        "display_label": "bp-vdb02-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:33:34.577Z",
+            "root_actualdeletetime": "2023-04-02T06:33:34.577Z",
+            "root_lastaccesstime": "2023-02-21T06:33:34.577Z"
+        }
+    },
+    {
+        "global_id": "6357f6cc22d8e14a3c65c49c42400c14",
+        "display_label": "wok-vame-p004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:12:18.654Z",
+            "root_actualdeletetime": "2023-04-02T06:12:18.654Z",
+            "root_lastaccesstime": "2023-02-21T06:12:18.654Z"
+        }
+    },
+    {
+        "global_id": "e2a3480f11296270d6ca503d67b1f0d7",
+        "display_label": "wok-vams-b114",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:43:51.242Z",
+            "root_actualdeletetime": "2023-04-02T05:43:51.242Z",
+            "root_lastaccesstime": "2023-02-21T05:43:51.242Z"
+        }
+    },
+    {
+        "global_id": "71b3aa9c6363e6fcc3874fc23b8d1b4d",
+        "display_label": "osa-vams-b064",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:37:33.737Z",
+            "root_actualdeletetime": "2023-04-02T05:37:33.737Z",
+            "root_lastaccesstime": "2023-02-21T05:37:33.737Z"
+        }
+    },
+    {
+        "global_id": "673f64318bae4eb46a2d4dc43fa5178c",
+        "display_label": "all-vams-s049",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "499f1ff56220ee1d9e4c9ffe4ca012c7",
+        "display_label": "wok-vams-p101",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:18:26.087Z",
+            "root_actualdeletetime": "2023-03-30T05:18:26.087Z",
+            "root_lastaccesstime": "2023-02-18T05:18:26.087Z",
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "9c3d6b88f2f69c386aba4e96f971732c",
+        "display_label": "osa-vams-b066",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:01:17.287Z",
+            "root_actualdeletetime": "2023-04-02T05:01:17.287Z",
+            "root_lastaccesstime": "2023-02-21T05:01:17.287Z"
+        }
+    },
+    {
+        "global_id": "16c05da7202742adedb16ba4760f6619",
+        "display_label": "ams-vwms-p003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:06:47.509Z",
+            "root_actualdeletetime": "2023-04-02T06:06:47.509Z",
+            "root_lastaccesstime": "2023-02-21T06:06:47.509Z"
+        }
+    },
+    {
+        "global_id": "1cf144fc83387c9103017833adca59c0",
+        "display_label": "all-vaihub-s008",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:56:20.972Z",
+            "root_actualdeletetime": "2023-03-29T06:56:20.972Z",
+            "root_lastaccesstime": "2023-02-17T06:56:20.972Z"
+        }
+    },
+    {
+        "global_id": "67bb7fd651de4ab62e5535462dbcb6f9",
+        "display_label": "all-vams-p037",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.73",
+                "150.105.198.137",
+                "150.105.198.106",
+                "150.105.198.138",
+                "10.138.209.74"
+            ],
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "53d50ca46c916f10b5f90c59fd9e1eb4",
+        "display_label": "ohap0109",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:32.847Z",
+            "root_actualdeletetime": "2023-04-02T05:38:32.847Z",
+            "root_lastaccesstime": "2023-02-21T05:38:32.847Z"
+        }
+    },
+    {
+        "global_id": "a3abcfc88d92fae319a2567597c40951",
+        "display_label": "am2-vams-b019",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:43:14.131Z",
+            "root_actualdeletetime": "2023-04-02T06:43:14.131Z",
+            "root_lastaccesstime": "2023-02-21T06:43:14.131Z"
+        }
+    },
+    {
+        "global_id": "45182416717cab09852abe2eeed91e29",
+        "display_label": "tok-vwms-p015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:06:06.962Z",
+            "root_actualdeletetime": "2023-04-02T06:06:06.962Z",
+            "root_lastaccesstime": "2023-02-21T06:06:06.962Z"
+        }
+    },
+    {
+        "global_id": "4e0eed01dc5bae5e9e55c52853fa5b41",
+        "display_label": "lit-vams-q073",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:47:12.391Z",
+            "root_actualdeletetime": "2023-03-30T05:47:12.391Z",
+            "root_lastaccesstime": "2023-02-18T05:47:12.391Z"
+        }
+    },
+    {
+        "global_id": "fc18cd08fac11ee257c46f0010bbc7f0",
+        "display_label": "osa-vams-b062",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:03:00.695Z",
+            "root_actualdeletetime": "2023-04-02T05:03:00.695Z",
+            "root_lastaccesstime": "2023-02-21T05:03:00.695Z"
+        }
+    },
+    {
+        "global_id": "f26b11153e96961fd20a7c555a8a8c8b",
+        "display_label": "all-vaihub-s001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:47:05.063Z",
+            "root_actualdeletetime": "2023-03-30T05:47:05.063Z",
+            "root_lastaccesstime": "2023-02-18T05:47:05.063Z"
+        }
+    },
+    {
+        "global_id": "dd2ad6ccc4cbc8ba1b1656f3f99f59dc",
+        "display_label": "lit-vwms-b006",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:45:58.165Z",
+            "root_actualdeletetime": "2023-04-02T05:45:58.165Z",
+            "root_lastaccesstime": "2023-02-21T05:45:58.165Z"
+        }
+    },
+    {
+        "global_id": "487ea2088f94317c98ad4bdf83d3a848",
+        "display_label": "tok-vams-p074",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:26:53.884Z",
+            "root_actualdeletetime": "2023-04-02T06:26:53.884Z",
+            "root_lastaccesstime": "2023-02-21T06:26:53.884Z"
+        }
+    },
+    {
+        "global_id": "16f6a617d46092b7fa8c17e9eb738171",
+        "display_label": "lit-vams-b146",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:48:33.745Z",
+            "root_actualdeletetime": "2023-04-02T05:48:33.745Z",
+            "root_lastaccesstime": "2023-02-21T05:48:33.745Z"
+        }
+    },
+    {
+        "global_id": "e524e6193012c165ddf0768c8b3f428d",
+        "display_label": "ohap0005",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:05:31.197Z",
+            "root_actualdeletetime": "2023-04-02T05:05:31.197Z",
+            "root_lastaccesstime": "2023-02-21T05:05:31.197Z"
+        }
+    },
+    {
+        "global_id": "b87e73feb8366a86a92e5a871ccaa5f1",
+        "display_label": "am2-vwos-p002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T04:59:32.817Z",
+            "root_actualdeletetime": "2023-04-02T04:59:32.817Z",
+            "root_lastaccesstime": "2023-02-21T04:59:32.817Z"
+        }
+    },
+    {
+        "global_id": "4c7cab6d03ff1b37b36d51cfe67277ab",
+        "display_label": "all-vams-b282",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:35:49.704Z",
+            "root_actualdeletetime": "2023-04-02T05:35:49.704Z",
+            "root_lastaccesstime": "2023-02-21T05:35:49.704Z"
+        }
+    },
+    {
+        "global_id": "53362301d30222e4c50d1ee7ce35033a",
+        "display_label": "all-vacp-b028",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:01:39.459Z",
+            "root_actualdeletetime": "2023-04-02T05:01:39.459Z",
+            "root_lastaccesstime": "2023-02-21T05:01:39.459Z"
+        }
+    },
+    {
+        "global_id": "a4444fdbe0a13a47627fb05ddc9677d9",
+        "display_label": "ohio462",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:56:09.001Z",
+            "dns_servers": [
+                "198.147.177.10",
+                "198.151.186.51",
+                "204.90.224.1",
+                "198.151.186.43",
+                "204.90.147.12",
+                "192.168.243.5",
+                "192.168.243.6"
+            ],
+            "root_actualdeletetime": "2023-04-02T05:56:09.001Z",
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ],
+            "root_lastaccesstime": "2023-02-21T05:56:09.001Z"
+        }
+    },
+    {
+        "global_id": "41b9c1e75bd8dec38ac5f743fff42aa7",
+        "display_label": "tok-vams-b071",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:45.442Z",
+            "root_actualdeletetime": "2023-04-02T05:39:45.442Z",
+            "root_lastaccesstime": "2023-02-21T05:39:45.442Z"
+        }
+    },
+    {
+        "global_id": "a0da9d59df905fad5e63dc2f66f2f7cd",
+        "display_label": "lit-vams-b120",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:40:54.739Z",
+            "root_actualdeletetime": "2023-04-02T05:40:54.739Z",
+            "root_lastaccesstime": "2023-02-21T05:40:54.739Z"
+        }
+    },
+    {
+        "global_id": "173ea392069a0d7de1c689bdc412ee8a",
+        "display_label": "ams-vwms-b003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:13:50.796Z",
+            "root_actualdeletetime": "2023-04-02T06:13:50.796Z",
+            "root_lastaccesstime": "2023-02-21T06:13:50.796Z"
+        }
+    },
+    {
+        "global_id": "51eb322dc54071b367dcead22a3a1d40",
+        "display_label": "ams588",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:10:34.435Z",
+            "root_actualdeletetime": "2023-04-02T05:10:34.435Z",
+            "root_lastaccesstime": "2023-02-21T05:10:34.435Z"
+        }
+    },
+    {
+        "global_id": "78257ffe84af1483231cb8e80219245b",
+        "display_label": "lit-vams-p222",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:14:53.578Z",
+            "root_actualdeletetime": "2023-04-02T06:14:53.578Z",
+            "root_lastaccesstime": "2023-02-21T06:14:53.578Z"
+        }
+    },
+    {
+        "global_id": "48113794a9f4f273a96256e1793971c0",
+        "display_label": "all-vams-b262",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:10:10.935Z",
+            "root_actualdeletetime": "2023-04-02T05:10:10.935Z",
+            "root_lastaccesstime": "2023-02-21T05:10:10.935Z"
+        }
+    },
+    {
+        "global_id": "164c4d9878366766eedaf320a597357e",
+        "display_label": "wok-vams-p132",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:34:05.725Z",
+            "root_actualdeletetime": "2023-03-30T05:34:05.725Z",
+            "root_lastaccesstime": "2023-02-18T05:34:05.725Z"
+        }
+    },
+    {
+        "global_id": "c73eb8f4ee80f694b64b61c81eec24e0",
+        "display_label": "all-vach-p006",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:31:45.170Z",
+            "root_actualdeletetime": "2023-04-02T05:31:45.170Z",
+            "root_lastaccesstime": "2023-02-21T05:31:45.170Z"
+        }
+    },
+    {
+        "global_id": "e54f757e2c333e82751808645865aad8",
+        "display_label": "ams-vwms-b004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:28:06.651Z",
+            "root_actualdeletetime": "2023-04-02T06:28:06.651Z",
+            "root_lastaccesstime": "2023-02-21T06:28:06.651Z"
+        }
+    },
+    {
+        "global_id": "415c4760fa1a3ea39434b1ecf9bf2541",
+        "display_label": "lit-vadl-p002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:44:44.684Z",
+            "root_actualdeletetime": "2023-03-29T06:44:44.684Z",
+            "root_lastaccesstime": "2023-02-17T06:44:44.684Z"
+        }
+    },
+    {
+        "global_id": "cfb78ca22c897e451b66c8346b4daf71",
+        "display_label": "all-vams-b049",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:00:01.458Z",
+            "root_actualdeletetime": "2023-04-02T05:00:01.458Z",
+            "root_lastaccesstime": "2023-02-21T05:00:01.458Z"
+        }
+    },
+    {
+        "global_id": "b8086ad84e1e0686ed666fcf9978a13f",
+        "display_label": "all-vams-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:26:44.729Z",
+            "root_actualdeletetime": "2023-04-02T05:26:44.729Z",
+            "root_lastaccesstime": "2023-02-21T05:26:44.729Z"
+        }
+    },
+    {
+        "global_id": "65870f755a338fdc68612dcfb5186672",
+        "display_label": "lit-vams-p038",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:34.113Z",
+            "root_actualdeletetime": "2023-04-02T05:39:34.113Z",
+            "root_lastaccesstime": "2023-02-21T05:39:34.113Z"
+        }
+    },
+    {
+        "global_id": "20f9c29f37597c644443b36c07326f33",
+        "display_label": "all-vdb01-s001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:03:01.617Z",
+            "root_actualdeletetime": "2023-04-02T05:03:01.617Z",
+            "root_lastaccesstime": "2023-02-21T05:03:01.617Z"
+        }
+    },
+    {
+        "global_id": "8009b6bd4f8c0259de1fcf0102634bb9",
+        "display_label": "lit-vams-p046",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T06:34:17.146Z",
+            "root_actualdeletetime": "2023-03-30T06:34:17.146Z",
+            "root_lastaccesstime": "2023-02-18T06:34:17.146Z"
+        }
+    },
+    {
+        "global_id": "5f0b703d7e2c2e87c60431506d7b016d",
+        "display_label": "lit-vams-b049",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:41:02.958Z",
+            "dns_servers": [
+                "150.105.166.138",
+                "10.136.209.74",
+                "150.105.166.137",
+                "10.136.209.73",
+                "150.105.198.137",
+                "150.105.166.106"
+            ],
+            "root_actualdeletetime": "2023-04-02T05:41:02.958Z",
+            "root_lastaccesstime": "2023-02-21T05:41:02.958Z"
+        }
+    },
+    {
+        "global_id": "16ac1734b1d92ec1f0155e7de4a81e9f",
+        "display_label": "tok-vams-p061",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:42:19.616Z",
+            "root_actualdeletetime": "2023-04-02T05:42:19.616Z",
+            "root_lastaccesstime": "2023-02-21T05:42:19.616Z"
+        }
+    },
+    {
+        "global_id": "e9cfc962bf6db233061bb5f0e5c30242",
+        "display_label": "ams598",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:23.409Z",
+            "root_actualdeletetime": "2023-04-02T05:38:23.409Z",
+            "root_lastaccesstime": "2023-02-21T05:38:23.409Z"
+        }
+    },
+    {
+        "global_id": "dbc33365bdcde8a3de5d634c3168bec7",
+        "display_label": "lit-vdb01-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:01:23.443Z",
+            "root_actualdeletetime": "2023-04-02T05:01:23.443Z",
+            "root_lastaccesstime": "2023-02-21T05:01:23.443Z"
+        }
+    },
+    {
+        "global_id": "6c215fbd7ad0181a5be6332b3344de46",
+        "display_label": "ams202",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:14:44.735Z",
+            "root_actualdeletetime": "2023-04-02T05:14:44.735Z",
+            "root_lastaccesstime": "2023-02-21T05:14:44.735Z"
+        }
+    },
+    {
+        "global_id": "2e964b6275f848411076f1a43b1a91c2",
+        "display_label": "all-vams-u057",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:17:38.534Z",
+            "root_actualdeletetime": "2023-04-02T05:17:38.534Z",
+            "root_lastaccesstime": "2023-02-21T05:17:38.534Z"
+        }
+    },
+    {
+        "global_id": "43ed8f24909a4833ce1ecb0eed665b68",
+        "display_label": "all-vams-b022",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "a3cc258b688a27ed9f2b555f3d8fd907",
+        "display_label": "am2-vams-b021",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:27:57.947Z",
+            "root_actualdeletetime": "2023-04-02T06:27:57.947Z",
+            "root_lastaccesstime": "2023-02-21T06:27:57.947Z"
+        }
+    },
+    {
+        "global_id": "420ef320a3a216e7b0c4c03bdff2d3d4",
+        "display_label": "lit-vams-p042",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:43:13.116Z",
+            "root_actualdeletetime": "2023-04-02T05:43:13.116Z",
+            "root_lastaccesstime": "2023-02-21T05:43:13.116Z"
+        }
+    },
+    {
+        "global_id": "ade7c6c555fea59c8496d968d0341eba",
+        "display_label": "lit-vams-b166",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:47:37.276Z",
+            "root_actualdeletetime": "2023-04-02T05:47:37.276Z",
+            "root_lastaccesstime": "2023-02-21T05:47:37.276Z"
+        }
+    },
+    {
+        "global_id": "8baa30b5d6d2fbe2b02cb9004c9cfea6",
+        "display_label": "ohap0466",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:30.972Z",
+            "root_actualdeletetime": "2023-04-02T05:38:30.972Z",
+            "root_lastaccesstime": "2023-02-21T05:38:30.972Z"
+        }
+    },
+    {
+        "global_id": "47dcad34cae5a2d9b4937b07fdd92f61",
+        "display_label": "all-vacp-s006",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:18:00.502Z",
+            "root_actualdeletetime": "2023-04-02T06:18:00.502Z",
+            "root_lastaccesstime": "2023-02-21T06:18:00.502Z"
+        }
+    },
+    {
+        "global_id": "18150bb48b77304ddeeefc2403e312d3",
+        "display_label": "all-vams-b211",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:39:27.700Z",
+            "root_actualdeletetime": "2023-04-01T05:39:27.700Z",
+            "root_lastaccesstime": "2023-02-20T05:39:27.700Z"
+        }
+    },
+    {
+        "global_id": "49f5137437ef9009fe52d574535ba4c7",
+        "display_label": "ohap0023",
+        "changed_properties": {
+            "dns_servers": [
+                "204.90.147.12",
+                "198.151.186.51",
+                "204.90.224.1"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "780363be76d6aff625d551bd52b90aa9",
+        "display_label": "wok-vams-b108",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:46:57.743Z",
+            "root_actualdeletetime": "2023-04-02T06:46:57.743Z",
+            "root_lastaccesstime": "2023-02-21T06:46:57.743Z"
+        }
+    },
+    {
+        "global_id": "43cbf66ac8f163bcc69f87820755f3a3",
+        "display_label": "lit-vaswftm-p009",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "7b8328059473e917d78fdc6233b89a16",
+        "display_label": "lit-vams-b151",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:42:35.163Z",
+            "root_actualdeletetime": "2023-04-02T05:42:35.163Z",
+            "root_lastaccesstime": "2023-02-21T05:42:35.163Z"
+        }
+    },
+    {
+        "global_id": "a3961b249ba2eb4bcf620fd0e5649b1e",
+        "display_label": "lit-vams-p053",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:06:05.072Z",
+            "root_actualdeletetime": "2023-04-02T05:06:05.072Z",
+            "root_lastaccesstime": "2023-02-21T05:06:05.072Z"
+        }
+    },
+    {
+        "global_id": "49a18a4e96aa52f625ecc9e0ee5732e7",
+        "display_label": "lit-vams-b060",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.198.137",
+                "150.105.166.106",
+                "150.105.166.138",
+                "150.105.166.137"
+            ]
+        }
+    },
+    {
+        "global_id": "cce02d96656a4a45b11dbe00e7bffeba",
+        "display_label": "all-vams-s052",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:46:32.744Z",
+            "root_actualdeletetime": "2023-04-02T05:46:32.744Z",
+            "root_lastaccesstime": "2023-02-21T05:46:32.744Z"
+        }
+    },
+    {
+        "global_id": "2e1bb9968835734fc81c5511aa3b883d",
+        "display_label": "all-vams-p151",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:30:55.654Z",
+            "root_actualdeletetime": "2023-04-02T05:30:55.654Z",
+            "root_lastaccesstime": "2023-02-21T05:30:55.654Z"
+        }
+    },
+    {
+        "global_id": "cd6dfaa5d054fd9216a2e3cead1be3ad",
+        "display_label": "all-vadl-s038",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-11T05:28:31.542Z",
+            "root_actualdeletetime": "2023-03-31T05:28:31.542Z",
+            "root_lastaccesstime": "2023-02-19T05:28:31.542Z"
+        }
+    },
+    {
+        "global_id": "bf66c1414e4a51f620cabcaf8deac659",
+        "display_label": "wok-vams-p016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:36.270Z",
+            "root_actualdeletetime": "2023-04-02T05:39:36.270Z",
+            "root_lastaccesstime": "2023-02-21T05:39:36.270Z"
+        }
+    },
+    {
+        "global_id": "47adf7abc946811b852175fc76146834",
+        "display_label": "all-vams-p033",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-08T05:37:09.059Z",
+            "root_actualdeletetime": "2023-03-28T05:37:09.059Z",
+            "root_lastaccesstime": "2023-02-16T05:37:09.059Z"
+        }
+    },
+    {
+        "global_id": "12e489ba2e95b01cb696a7ff5ef05f64",
+        "display_label": "osa-vams-p055",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:23:56.476Z",
+            "root_actualdeletetime": "2023-04-02T05:23:56.476Z",
+            "root_lastaccesstime": "2023-02-21T05:23:56.476Z"
+        }
+    },
+    {
+        "global_id": "5f5a7e23a1822af1498690dd53ceeb95",
+        "display_label": "am2-vams-p141",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:05:07.785Z",
+            "root_actualdeletetime": "2023-03-29T06:05:07.785Z",
+            "root_lastaccesstime": "2023-02-17T06:05:07.785Z"
+        }
+    },
+    {
+        "global_id": "b2b7330d21c93b35d47da9b9192f65e8",
+        "display_label": "lit-vams-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:27:06.526Z",
+            "dns_servers": [
+                "150.105.166.138",
+                "150.105.166.137",
+                "10.136.209.74",
+                "150.105.198.137",
+                "150.105.166.106",
+                "10.136.209.73"
+            ],
+            "root_actualdeletetime": "2023-04-02T05:27:06.526Z",
+            "root_lastaccesstime": "2023-02-21T05:27:06.526Z"
+        }
+    },
+    {
+        "global_id": "a4ba8bae35032684b8a8bd6d0fbe1ac3",
+        "display_label": "all-vdb02-b001",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "4e93a1b14dfd3c148421c6fa3d03099a",
+        "display_label": "at2-vams-p007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-11T05:27:33.931Z",
+            "root_actualdeletetime": "2023-03-31T05:27:33.931Z",
+            "root_lastaccesstime": "2023-02-19T05:27:33.931Z"
+        }
+    },
+    {
+        "global_id": "4d43e22e3975ef8b8751132a39a73e35",
+        "display_label": "bp-vwms-b006",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:24:33.868Z",
+            "root_actualdeletetime": "2023-04-02T05:24:33.868Z",
+            "root_lastaccesstime": "2023-02-21T05:24:33.868Z"
+        }
+    },
+    {
+        "global_id": "b5d7bb4c2703bfbc03701956a76884ae",
+        "display_label": "lit-vacp-p027",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:02:53.924Z",
+            "root_actualdeletetime": "2023-03-29T06:02:53.924Z",
+            "root_lastaccesstime": "2023-02-17T06:02:53.924Z"
+        }
+    },
+    {
+        "global_id": "bb879058a28b353fcf9654d32f3bd174",
+        "display_label": "wok-vams-p120",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "4bce34764c562a00ba013def96c8cea1",
+        "display_label": "lit-vams-p054",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:47:15.050Z",
+            "root_actualdeletetime": "2023-04-01T05:47:15.050Z",
+            "root_lastaccesstime": "2023-02-20T05:47:15.050Z"
+        }
+    },
+    {
+        "global_id": "d68ca54b426415601fb38edd269a7198",
+        "display_label": "am2-vams-p021",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:14:39.422Z",
+            "root_actualdeletetime": "2023-04-02T05:14:39.422Z",
+            "root_lastaccesstime": "2023-02-21T05:14:39.422Z"
+        }
+    },
+    {
+        "global_id": "2e01f957475cc50068d46729835b1a71",
+        "display_label": "ams-vams-p029",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:42:40.428Z",
+            "root_actualdeletetime": "2023-04-02T06:42:40.428Z",
+            "root_lastaccesstime": "2023-02-21T06:42:40.428Z"
+        }
+    },
+    {
+        "global_id": "a79c008822457e6ef2e1f400005b5504",
+        "display_label": "lit-vams-p016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:08:09.574Z",
+            "root_actualdeletetime": "2023-04-02T05:08:09.574Z",
+            "root_lastaccesstime": "2023-02-21T05:08:09.574Z"
+        }
+    },
+    {
+        "global_id": "e2ae11134a51d865ff598555123c3508",
+        "display_label": "ohap0021",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:55:55.845Z",
+            "root_actualdeletetime": "2023-04-02T05:55:55.845Z",
+            "root_lastaccesstime": "2023-02-21T05:55:55.845Z"
+        }
+    },
+    {
+        "global_id": "1923c35bdae2e0b904be0b930b3f2c90",
+        "display_label": "ohap0108",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:51:12.950Z",
+            "root_actualdeletetime": "2023-04-02T05:51:12.950Z",
+            "root_lastaccesstime": "2023-02-21T05:51:12.950Z"
+        }
+    },
+    {
+        "global_id": "bb3bc8bad6919cb96cea430540d0c3d1",
+        "display_label": "all-vams-u056",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.198.137",
+                "150.105.198.138"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "68bf4d266ab01802cc29dfa659df36b4",
+        "display_label": "lit-vwms-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:06:38.552Z",
+            "root_actualdeletetime": "2023-03-29T06:06:38.552Z",
+            "root_lastaccesstime": "2023-02-17T06:06:38.552Z"
+        }
+    },
+    {
+        "global_id": "46274982cd466fb38789a306396de03a",
+        "display_label": "lit-vams-b282",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:11:08.232Z",
+            "root_actualdeletetime": "2023-04-02T05:11:08.232Z",
+            "root_lastaccesstime": "2023-02-21T05:11:08.232Z"
+        }
+    },
+    {
+        "global_id": "20cf3cc5d8a55bca40f692e4c75dd6e9",
+        "display_label": "ls2-vams-b013",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:00:46.067Z",
+            "root_actualdeletetime": "2023-04-02T06:00:46.067Z",
+            "root_lastaccesstime": "2023-02-21T06:00:46.067Z"
+        }
+    },
+    {
+        "global_id": "9867b9eceb4664e2194871fdf7871651",
+        "display_label": "all-vams-b014",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:14:52.594Z",
+            "root_actualdeletetime": "2023-04-02T05:14:52.594Z",
+            "root_lastaccesstime": "2023-02-21T05:14:52.594Z"
+        }
+    },
+    {
+        "global_id": "4c40e73467cabd3b42f8aa82914ae91d",
+        "display_label": "ams744",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:40:50.458Z",
+            "root_actualdeletetime": "2023-04-02T05:40:50.458Z",
+            "root_lastaccesstime": "2023-02-21T05:40:50.458Z"
+        }
+    },
+    {
+        "global_id": "b28dd1a34836d81f6f4e0daad4f469a1",
+        "display_label": "lit-vams-p108",
+        "changed_properties": {
+            "dns_servers": [
+                "10.136.209.73",
+                "10.136.209.74",
+                "150.105.166.137",
+                "150.105.166.106"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "c9bd9cfc0d75653fc90f6eab9d47f020",
+        "display_label": "tok-vwms-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:36:14.158Z",
+            "root_actualdeletetime": "2023-04-02T05:36:14.158Z",
+            "root_lastaccesstime": "2023-02-21T05:36:14.158Z"
+        }
+    },
+    {
+        "global_id": "3b92c54a7fadf7bfa070a458d3517593",
+        "display_label": "ams-vams-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:19:16.238Z",
+            "root_actualdeletetime": "2023-04-02T05:19:16.238Z",
+            "root_lastaccesstime": "2023-02-21T05:19:16.238Z"
+        }
+    },
+    {
+        "global_id": "31525400a64f2bc7774f1426b0296143",
+        "display_label": "am2-vams-p009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:56:24.908Z",
+            "root_actualdeletetime": "2023-04-02T05:56:24.908Z",
+            "root_lastaccesstime": "2023-02-21T05:56:24.908Z"
+        }
+    },
+    {
+        "global_id": "f04eb337d8e11f76713dffa9dcdab4a9",
+        "display_label": "ls2-vams-p008",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:52:12.779Z",
+            "root_actualdeletetime": "2023-04-02T05:52:12.779Z",
+            "root_lastaccesstime": "2023-02-21T05:52:12.779Z"
+        }
+    },
+    {
+        "global_id": "abf8fc587c05fc28ab9c551469b3bb80",
+        "display_label": "all-vaweb-b003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:06:45.744Z",
+            "root_actualdeletetime": "2023-04-02T06:06:45.744Z",
+            "root_lastaccesstime": "2023-02-21T06:06:45.744Z"
+        }
+    },
+    {
+        "global_id": "0efe6ad33461e62bf0bf39a839a8c993",
+        "display_label": "lit-vams-p102",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:17:43.768Z",
+            "root_actualdeletetime": "2023-04-02T06:17:43.768Z",
+            "root_lastaccesstime": "2023-02-21T06:17:43.768Z"
+        }
+    },
+    {
+        "global_id": "40ba42d2baf1a948884541c881f6e924",
+        "display_label": "lit-vaihubdf-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:02:20.486Z",
+            "root_actualdeletetime": "2023-03-29T06:02:20.486Z",
+            "root_lastaccesstime": "2023-02-17T06:02:20.486Z"
+        }
+    },
+    {
+        "global_id": "1002b696c4cc85682a12df3f699d2e66",
+        "display_label": "bp-vacp-p004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:35:59.719Z",
+            "root_actualdeletetime": "2023-04-02T06:35:59.719Z",
+            "root_lastaccesstime": "2023-02-21T06:35:59.719Z"
+        }
+    },
+    {
+        "global_id": "150c8fc528c4a2c8db30bcc953eab54c",
+        "display_label": "all-vwms-b004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:49:01.339Z",
+            "root_actualdeletetime": "2023-04-02T05:49:01.339Z",
+            "root_lastaccesstime": "2023-02-21T05:49:01.339Z"
+        }
+    },
+    {
+        "global_id": "7faef9b629adacf748f9cadd3e68e3e7",
+        "display_label": "ams-vams-p030",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:18:51.628Z",
+            "root_actualdeletetime": "2023-04-02T06:18:51.628Z",
+            "root_lastaccesstime": "2023-02-21T06:18:51.628Z"
+        }
+    },
+    {
+        "global_id": "ba96eec5c5341fa2321d658e324ccb0b",
+        "display_label": "lit-vams-p063",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:21:30.459Z",
+            "root_actualdeletetime": "2023-04-02T05:21:30.459Z",
+            "root_lastaccesstime": "2023-02-21T05:21:30.459Z"
+        }
+    },
+    {
+        "global_id": "44e911b09b85beee8e4b64b520e2fab6",
+        "display_label": "lit-vams-b267",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T06:41:09.215Z",
+            "root_actualdeletetime": "2023-04-01T06:41:09.215Z",
+            "root_lastaccesstime": "2023-02-20T06:41:09.215Z"
+        }
+    },
+    {
+        "global_id": "a4ae61da28212f7568322afcad8c50dc",
+        "display_label": "lit-vacp-p015",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.138",
+                "150.105.166.106",
+                "10.136.209.73",
+                "10.136.209.74",
+                "150.105.166.137"
+            ]
+        }
+    },
+    {
+        "global_id": "3ce753933736c7745187121849722b2f",
+        "display_label": "lit-vams-b010",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:52:01.879Z",
+            "root_actualdeletetime": "2023-03-30T05:52:01.879Z",
+            "root_lastaccesstime": "2023-02-18T05:52:01.879Z"
+        }
+    },
+    {
+        "global_id": "4f6dc0b6a24665d09bbfae5c113f62ee",
+        "display_label": "tok-vams-p075",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:10:47.700Z",
+            "root_actualdeletetime": "2023-04-02T06:10:47.700Z",
+            "root_lastaccesstime": "2023-02-21T06:10:47.700Z"
+        }
+    },
+    {
+        "global_id": "b4e7060fa9f805d5b900eaac779fca61",
+        "display_label": "bp-vacp-b002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:13:05.155Z",
+            "root_actualdeletetime": "2023-04-02T06:13:05.155Z",
+            "root_lastaccesstime": "2023-02-21T06:13:05.155Z"
+        }
+    },
+    {
+        "global_id": "435bfb50d82057a4ae5fc1e5ed1f2fe2",
+        "display_label": "bp-vadl-s059",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:29:51.261Z",
+            "root_actualdeletetime": "2023-04-02T06:29:51.261Z",
+            "root_lastaccesstime": "2023-02-21T06:29:51.261Z"
+        }
+    },
+    {
+        "global_id": "7b503794dd3ea66403da0c6aca711bf7",
+        "display_label": "all-vwms-p010",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:14:08.578Z",
+            "root_actualdeletetime": "2023-04-02T05:14:08.578Z",
+            "root_lastaccesstime": "2023-02-21T05:14:08.578Z"
+        }
+    },
+    {
+        "global_id": "619c5f5cf854fd76db8f1aaad5283cf8",
+        "display_label": "all-vadl-s021",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:45.442Z",
+            "root_actualdeletetime": "2023-04-02T05:39:45.442Z",
+            "root_lastaccesstime": "2023-02-21T05:39:45.442Z"
+        }
+    },
+    {
+        "global_id": "add09de5530dd8f4c5df7c5322ce06d6",
+        "display_label": "lit-vams-b110",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:18:26.238Z",
+            "root_actualdeletetime": "2023-04-02T05:18:26.238Z",
+            "root_lastaccesstime": "2023-02-21T05:18:26.238Z"
+        }
+    },
+    {
+        "global_id": "9907ced9c407b85fc74967ceea8108b6",
+        "display_label": "am2-vwos-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:14:14.140Z",
+            "dns_servers": [
+                "10.78.176.137",
+                "198.147.177.65",
+                "10.78.176.138"
+            ],
+            "root_actualdeletetime": "2023-04-02T06:14:14.140Z",
+            "root_lastaccesstime": "2023-02-21T06:14:14.140Z"
+        }
+    },
+    {
+        "global_id": "6a0f6cc9440eaf4b256556b3a03fc06b",
+        "display_label": "osa-vwms-b002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:47:37.276Z",
+            "root_actualdeletetime": "2023-04-02T05:47:37.276Z",
+            "root_lastaccesstime": "2023-02-21T05:47:37.276Z"
+        }
+    },
+    {
+        "global_id": "4eae67813936eff59c828536d8797c10",
+        "display_label": "osa-vams-p080",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:05:58.676Z",
+            "root_actualdeletetime": "2023-03-29T06:05:58.676Z",
+            "root_lastaccesstime": "2023-02-17T06:05:58.676Z"
+        }
+    },
+    {
+        "global_id": "7a3d373b2ab71d9bb97e61473ba37f47",
+        "display_label": "all-vams-p093",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T05:35:14.184Z",
+            "root_actualdeletetime": "2023-03-29T05:35:14.184Z",
+            "root_lastaccesstime": "2023-02-17T05:35:14.184Z"
+        }
+    },
+    {
+        "global_id": "4bb56c652eefd97cb3a41ed39d52cffa",
+        "display_label": "bp-dbrac02-p002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:17:35.721Z",
+            "root_actualdeletetime": "2023-04-02T06:17:35.721Z",
+            "root_lastaccesstime": "2023-02-21T06:17:35.721Z"
+        }
+    },
+    {
+        "global_id": "0179c8cf5835bb227e9f535d62ed295a",
+        "display_label": "ohio498",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:43:35.210Z",
+            "root_actualdeletetime": "2023-04-02T05:43:35.210Z",
+            "root_lastaccesstime": "2023-02-21T05:43:35.210Z"
+        }
+    },
+    {
+        "global_id": "c7511cc84c6c5645770e08c7db0d7751",
+        "display_label": "lit-vwms-p017",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:12:27.201Z",
+            "root_actualdeletetime": "2023-04-02T06:12:27.201Z",
+            "root_lastaccesstime": "2023-02-21T06:12:27.201Z"
+        }
+    },
+    {
+        "global_id": "448bed8b659e416fae09127dee7902dc",
+        "display_label": "osa-vwms-b014",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:36:46.829Z",
+            "root_actualdeletetime": "2023-04-02T06:36:46.829Z",
+            "root_lastaccesstime": "2023-02-21T06:36:46.829Z"
+        }
+    },
+    {
+        "global_id": "4be168de40de94b78db760f402f96b82",
+        "display_label": "osa-vame-p003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:46:36.969Z",
+            "root_actualdeletetime": "2023-03-30T05:46:36.969Z",
+            "root_lastaccesstime": "2023-02-18T05:46:36.969Z"
+        }
+    },
+    {
+        "global_id": "901e767db2060bf6ab11558f9f800a92",
+        "display_label": "all-vach-p032",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:45.442Z",
+            "root_actualdeletetime": "2023-04-02T05:39:45.442Z",
+            "root_lastaccesstime": "2023-02-21T05:39:45.442Z"
+        }
+    },
+    {
+        "global_id": "43c8bfdee90427fa88f520eb5c08b402",
+        "display_label": "lit-vwcp-b018x",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:50:41.152Z",
+            "root_actualdeletetime": "2023-04-02T06:50:41.152Z",
+            "root_lastaccesstime": "2023-02-21T06:50:41.152Z"
+        }
+    },
+    {
+        "global_id": "696c2ff6668c70836817d854b80b30de",
+        "display_label": "ohio542",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:18:43.597Z",
+            "root_actualdeletetime": "2023-04-02T06:18:43.597Z",
+            "root_lastaccesstime": "2023-02-21T06:18:43.597Z"
+        }
+    },
+    {
+        "global_id": "c9ad0a0f770692d1ef1616339f0deb58",
+        "display_label": "tok-vams-p065",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:05:26.129Z",
+            "root_actualdeletetime": "2023-03-29T06:05:26.129Z",
+            "root_lastaccesstime": "2023-02-17T06:05:26.129Z"
+        }
+    },
+    {
+        "global_id": "3da1db8eb3f60c50ea1852eb4c7900c5",
+        "display_label": "tok-vams-p063",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:03:07.945Z",
+            "root_actualdeletetime": "2023-04-02T05:03:07.945Z",
+            "root_lastaccesstime": "2023-02-21T05:03:07.945Z"
+        }
+    },
+    {
+        "global_id": "c75c3c2bc2a9d1c92d69a0c1c5938b99",
+        "display_label": "am2-vams-b026",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:12:35.279Z",
+            "root_actualdeletetime": "2023-04-02T06:12:35.279Z",
+            "root_lastaccesstime": "2023-02-21T06:12:35.279Z"
+        }
+    },
+    {
+        "global_id": "477ac256add04d0c57beb201cc110c7f",
+        "display_label": "wok-vams-p123",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:41:28.802Z",
+            "root_actualdeletetime": "2023-04-02T05:41:28.802Z",
+            "root_lastaccesstime": "2023-02-21T05:41:28.802Z"
+        }
+    },
+    {
+        "global_id": "ac96331686c3cea93a7e2720195e0f5b",
+        "display_label": "all-vwms-p004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:28:16.042Z",
+            "root_actualdeletetime": "2023-04-02T05:28:16.042Z",
+            "root_lastaccesstime": "2023-02-21T05:28:16.042Z"
+        }
+    },
+    {
+        "global_id": "6e7997d364cf65557b84071a3d8a15af",
+        "display_label": "all-vams-s054",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:49:57.262Z",
+            "root_actualdeletetime": "2023-04-02T05:49:57.262Z",
+            "root_lastaccesstime": "2023-02-21T05:49:57.262Z"
+        }
+    },
+    {
+        "global_id": "fdf9fb4f5a369764c6205e4dc3156aca",
+        "display_label": "lit-vams-p048",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:30:56.543Z",
+            "root_actualdeletetime": "2023-04-02T06:30:56.543Z",
+            "root_lastaccesstime": "2023-02-21T06:30:56.543Z"
+        }
+    },
+    {
+        "global_id": "66507022d4ae5d4a074dca6acd4a740f",
+        "display_label": "wok-vwos-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:11:10.810Z",
+            "root_actualdeletetime": "2023-04-02T05:11:10.810Z",
+            "root_lastaccesstime": "2023-02-21T05:11:10.810Z"
+        }
+    },
+    {
+        "global_id": "bfcc1faec1381033c0edae7a15bf3a52",
+        "display_label": "amweb9001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-08T05:37:44.513Z",
+            "root_actualdeletetime": "2023-03-28T05:37:44.513Z",
+            "root_lastaccesstime": "2023-02-16T05:37:44.513Z"
+        }
+    },
+    {
+        "global_id": "27e056f3299a956ee3bb1b81cd8dc6f9",
+        "display_label": "ohio493",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:34:38.641Z",
+            "root_actualdeletetime": "2023-04-02T05:34:38.641Z",
+            "root_lastaccesstime": "2023-02-21T05:34:38.641Z"
+        }
+    },
+    {
+        "global_id": "4d871c4a42272474aac8aa3255dafe16",
+        "display_label": "tok-vame-p003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:57.879Z",
+            "root_actualdeletetime": "2023-04-02T05:38:57.879Z",
+            "root_lastaccesstime": "2023-02-21T05:38:57.879Z"
+        }
+    },
+    {
+        "global_id": "af8faa440255bd6f6b06e557d1b895ab",
+        "display_label": "lit-vams-p020",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-08T05:51:17.977Z",
+            "root_actualdeletetime": "2023-03-28T05:51:17.977Z",
+            "root_lastaccesstime": "2023-02-16T05:51:17.977Z"
+        }
+    },
+    {
+        "global_id": "af79c42fd6004165174dbbafedeb6310",
+        "display_label": "lit-vams-p017",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T05:31:33.306Z",
+            "root_actualdeletetime": "2023-03-29T05:31:33.306Z",
+            "root_lastaccesstime": "2023-02-17T05:31:33.306Z"
+        }
+    },
+    {
+        "global_id": "32b0eb1fd385997a1c4343ae31fc8080",
+        "display_label": "ohio466",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:41:02.958Z",
+            "root_actualdeletetime": "2023-04-02T05:41:02.958Z",
+            "root_lastaccesstime": "2023-02-21T05:41:02.958Z"
+        }
+    },
+    {
+        "global_id": "4d267b19b7403571816ed2cfabf31dd6",
+        "display_label": "all-dbrac15-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:07:08.291Z",
+            "root_actualdeletetime": "2023-04-02T06:07:08.291Z",
+            "root_lastaccesstime": "2023-02-21T06:07:08.291Z"
+        }
+    },
+    {
+        "global_id": "7520dc503d9afacb854ae2502bb7a8e5",
+        "display_label": "bp-vacp-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:48:08.291Z",
+            "root_actualdeletetime": "2023-04-02T06:48:08.291Z",
+            "root_lastaccesstime": "2023-02-21T06:48:08.291Z"
+        }
+    },
+    {
+        "global_id": "1512810b12cc884f1d641f6dfeff02fd",
+        "display_label": "osa-vwms-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:31:43.592Z",
+            "root_actualdeletetime": "2023-04-02T05:31:43.592Z",
+            "root_lastaccesstime": "2023-02-21T05:31:43.592Z"
+        }
+    },
+    {
+        "global_id": "4f41deb43c6a7cfa9b5c1d391427b6f6",
+        "display_label": "tok-vwme-b003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:02:46.647Z",
+            "root_actualdeletetime": "2023-04-02T06:02:46.647Z",
+            "root_lastaccesstime": "2023-02-21T06:02:46.647Z"
+        }
+    },
+    {
+        "global_id": "6710d5b9d7afb1c87fc6e6ac6605a4cc",
+        "display_label": "osa-vams-b067",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:50:38.669Z",
+            "root_actualdeletetime": "2023-04-02T05:50:38.669Z",
+            "root_lastaccesstime": "2023-02-21T05:50:38.669Z"
+        }
+    },
+    {
+        "global_id": "028f1ea3005152aadb219e7f3887928a",
+        "display_label": "all-vams-p032",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:41:11.255Z",
+            "root_actualdeletetime": "2023-04-02T05:41:11.255Z",
+            "root_lastaccesstime": "2023-02-21T05:41:11.255Z"
+        }
+    },
+    {
+        "global_id": "8ee2e1f581218c0b67f9d540e17ca795",
+        "display_label": "ams-vwcp-p008",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:31:51.091Z",
+            "root_actualdeletetime": "2023-04-02T06:31:51.091Z",
+            "root_lastaccesstime": "2023-02-21T06:31:51.091Z"
+        }
+    },
+    {
+        "global_id": "5f208ccc87f81a4510dcf566fe2b0786",
+        "display_label": "all-vams-s018",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.73",
+                "150.105.198.137",
+                "150.105.198.106",
+                "10.138.209.74",
+                "150.105.198.138"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "8eeef6f0b100834056b25156c005a00c",
+        "display_label": "tok-vwms-p002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:50:54.514Z",
+            "root_actualdeletetime": "2023-03-29T06:50:54.514Z",
+            "root_lastaccesstime": "2023-02-17T06:50:54.514Z"
+        }
+    },
+    {
+        "global_id": "1a5f826c30e4d01407cba26012df3db9",
+        "display_label": "all-vacp-p015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:49:51.012Z",
+            "root_actualdeletetime": "2023-04-02T05:49:51.012Z",
+            "root_lastaccesstime": "2023-02-21T05:49:51.012Z"
+        }
+    },
+    {
+        "global_id": "469611bbdd37c3a8a3f71dd9f10bd892",
+        "display_label": "lit-vacp-b061",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:50:12.349Z",
+            "root_actualdeletetime": "2023-04-01T05:50:12.349Z",
+            "root_lastaccesstime": "2023-02-20T05:50:12.349Z"
+        }
+    },
+    {
+        "global_id": "420a326da079d3ae8e605527281ddc96",
+        "display_label": "all-vdb01-s002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:12:38.733Z",
+            "root_actualdeletetime": "2023-04-02T05:12:38.733Z",
+            "root_lastaccesstime": "2023-02-21T05:12:38.733Z"
+        }
+    },
+    {
+        "global_id": "4536e8bda1126930aef0f77fd0b19559",
+        "display_label": "bp-vams-s153",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:15:44.470Z",
+            "root_actualdeletetime": "2023-04-02T05:15:44.470Z",
+            "root_lastaccesstime": "2023-02-21T05:15:44.470Z"
+        }
+    },
+    {
+        "global_id": "906f568922f74f8639a1a9330730e0e4",
+        "display_label": "lit-vwcp-b016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:03:49.116Z",
+            "root_actualdeletetime": "2023-04-02T06:03:49.116Z",
+            "root_lastaccesstime": "2023-02-21T06:03:49.116Z"
+        }
+    },
+    {
+        "global_id": "88525d869931dfc0c8d0c311ec87955d",
+        "display_label": "all-vadl-s047",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-11T05:47:56.041Z",
+            "root_actualdeletetime": "2023-03-31T05:47:56.041Z",
+            "root_lastaccesstime": "2023-02-19T05:47:56.041Z"
+        }
+    },
+    {
+        "global_id": "e32726cc3086fb65d0269d63a9339a51",
+        "display_label": "ls2-vams-p009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:47:09.056Z",
+            "root_actualdeletetime": "2023-04-02T06:47:09.056Z",
+            "root_lastaccesstime": "2023-02-21T06:47:09.056Z"
+        }
+    },
+    {
+        "global_id": "0334c16ea83c1b2fe07ce5faf4945301",
+        "display_label": "all-vaweb-s003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:11:49.405Z",
+            "root_actualdeletetime": "2023-04-02T05:11:49.405Z",
+            "root_lastaccesstime": "2023-02-21T05:11:49.405Z"
+        }
+    },
+    {
+        "global_id": "2192874e175d48c693e5a1682ed5f333",
+        "display_label": "lit-vams-p146",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:18:49.503Z",
+            "root_actualdeletetime": "2023-04-02T06:18:49.503Z",
+            "root_lastaccesstime": "2023-02-21T06:18:49.503Z"
+        }
+    },
+    {
+        "global_id": "127df8265228cfbf0d28ca57482e898b",
+        "display_label": "all-vaihub-s007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:56:44.861Z",
+            "root_actualdeletetime": "2023-04-02T05:56:44.861Z",
+            "root_lastaccesstime": "2023-02-21T05:56:44.861Z"
+        }
+    },
+    {
+        "global_id": "4d6f713ca7924bb9b875c6fb3e5dde7f",
+        "display_label": "lit-vams-q996",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:23:17.726Z",
+            "root_actualdeletetime": "2023-04-02T05:23:17.726Z",
+            "root_lastaccesstime": "2023-02-21T05:23:17.726Z"
+        }
+    },
+    {
+        "global_id": "5f15cb2b92cf0d66058b10635305789b",
+        "display_label": "all-vaihub-p001",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.137",
+                "150.105.198.137",
+                "150.105.198.138",
+                "150.105.198.106",
+                "10.138.209.73",
+                "10.138.209.74"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "9e5487346f9c2c6d3064fb28164dcee5",
+        "display_label": "bp-vdb06-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:46:04.039Z",
+            "root_actualdeletetime": "2023-04-02T06:46:04.039Z",
+            "root_lastaccesstime": "2023-02-21T06:46:04.039Z"
+        }
+    },
+    {
+        "global_id": "966557e14d7eda41db74bf4921d50bb0",
+        "display_label": "lit-vams-p013",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:29:25.371Z",
+            "root_actualdeletetime": "2023-04-02T05:29:25.371Z",
+            "root_lastaccesstime": "2023-02-21T05:29:25.371Z"
+        }
+    },
+    {
+        "global_id": "7eaca14780c61609cd465dcd4b851389",
+        "display_label": "lit-vwcp-b015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:38:57.643Z",
+            "root_actualdeletetime": "2023-04-02T06:38:57.643Z",
+            "root_lastaccesstime": "2023-02-21T06:38:57.643Z"
+        }
+    },
+    {
+        "global_id": "1dfe99a4790b8ba7cab869af029416e1",
+        "display_label": "osa-vwms-p002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:04:43.790Z",
+            "root_actualdeletetime": "2023-04-02T05:04:43.790Z",
+            "root_lastaccesstime": "2023-02-21T05:04:43.790Z"
+        }
+    },
+    {
+        "global_id": "dee98f11e94c33a3205dc1da37df972f",
+        "display_label": "lit-vams-b160",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:59:42.770Z",
+            "root_actualdeletetime": "2023-04-02T05:59:42.770Z",
+            "root_lastaccesstime": "2023-02-21T05:59:42.770Z"
+        }
+    },
+    {
+        "global_id": "1670ecb8a0fe3cc47eb51b6edbd05265",
+        "display_label": "wok-vams-b164",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:23:38.350Z",
+            "root_actualdeletetime": "2023-04-02T06:23:38.350Z",
+            "root_lastaccesstime": "2023-02-21T06:23:38.350Z"
+        }
+    },
+    {
+        "global_id": "f55dae43224a84ccdc8a13d5e9809334",
+        "display_label": "all-vams-b055",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:05:26.129Z",
+            "dns_servers": [
+                "150.105.198.106",
+                "10.138.209.74",
+                "10.138.209.73",
+                "150.105.198.137"
+            ],
+            "root_actualdeletetime": "2023-03-29T06:05:26.129Z",
+            "root_lastaccesstime": "2023-02-17T06:05:26.129Z"
+        }
+    },
+    {
+        "global_id": "4ef2390a25b430cab136ff1ca9727167",
+        "display_label": "lit-vadl-p009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:28:31.496Z",
+            "root_actualdeletetime": "2023-04-02T05:28:31.496Z",
+            "root_lastaccesstime": "2023-02-21T05:28:31.496Z"
+        }
+    },
+    {
+        "global_id": "270719b3b03c0e00bd4f70e249f625c6",
+        "display_label": "lit-vams-d001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:52:13.436Z",
+            "root_actualdeletetime": "2023-04-02T05:52:13.436Z",
+            "root_lastaccesstime": "2023-02-21T05:52:13.436Z"
+        }
+    },
+    {
+        "global_id": "90636ea9030daa091d54e8e3bc8a49e2",
+        "display_label": "ls2-vams-p011",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:11:46.029Z",
+            "root_actualdeletetime": "2023-04-02T06:11:46.029Z",
+            "root_lastaccesstime": "2023-02-21T06:11:46.029Z"
+        }
+    },
+    {
+        "global_id": "314d2af6d1c9aca6529a0737da76d7e1",
+        "display_label": "am2-vams-b018",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:51:52.731Z",
+            "root_actualdeletetime": "2023-04-02T06:51:52.731Z",
+            "root_lastaccesstime": "2023-02-21T06:51:52.731Z"
+        }
+    },
+    {
+        "global_id": "6a6141b88954d5c58487416b9c3844ef",
+        "display_label": "all-vacp-b015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:51:38.498Z",
+            "root_actualdeletetime": "2023-04-02T05:51:38.498Z",
+            "root_lastaccesstime": "2023-02-21T05:51:38.498Z"
+        }
+    },
+    {
+        "global_id": "45f31faf1f5dd1160e7f1eb8c39c9d05",
+        "display_label": "lit-vwcp-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:09:17.386Z",
+            "root_actualdeletetime": "2023-04-02T06:09:17.386Z",
+            "root_lastaccesstime": "2023-02-21T06:09:17.386Z"
+        }
+    },
+    {
+        "global_id": "3da41b2a0894b8be8d6c7115c641a430",
+        "display_label": "ams-vwms-p004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:08:19.042Z",
+            "root_actualdeletetime": "2023-04-02T06:08:19.042Z",
+            "root_lastaccesstime": "2023-02-21T06:08:19.042Z"
+        }
+    },
+    {
+        "global_id": "50eb49d549d264016efb8afbd9102c19",
+        "display_label": "lit-vwms-p010",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:43:30.741Z",
+            "root_actualdeletetime": "2023-04-02T06:43:30.741Z",
+            "root_lastaccesstime": "2023-02-21T06:43:30.741Z"
+        }
+    },
+    {
+        "global_id": "1ecbaa251b309292e02178be4e17b06f",
+        "display_label": "all-vaihub-s002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:27:50.808Z",
+            "root_actualdeletetime": "2023-04-02T05:27:50.808Z",
+            "root_lastaccesstime": "2023-02-21T05:27:50.808Z"
+        }
+    },
+    {
+        "global_id": "a8d4cf64d35a6fa2da1f7de758acee13",
+        "display_label": "lit-vwms-p003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:41:26.755Z",
+            "root_actualdeletetime": "2023-04-02T06:41:26.755Z",
+            "root_lastaccesstime": "2023-02-21T06:41:26.755Z"
+        }
+    },
+    {
+        "global_id": "c0f4b1e0c9e53eca43007ce74cb6b20e",
+        "display_label": "wok-vams-b016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:10.551Z",
+            "root_actualdeletetime": "2023-04-02T05:39:10.551Z",
+            "root_lastaccesstime": "2023-02-21T05:39:10.551Z"
+        }
+    },
+    {
+        "global_id": "4bb0a9f646ee88821b3cd2aa52431def",
+        "display_label": "lit-vams-p045",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:04:39.508Z",
+            "root_actualdeletetime": "2023-04-02T06:04:39.508Z",
+            "root_lastaccesstime": "2023-02-21T06:04:39.508Z"
+        }
+    },
+    {
+        "global_id": "eb49444d8622504637b760ab0c9a4e6a",
+        "display_label": "wok-vams-p004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:24:35.961Z",
+            "root_actualdeletetime": "2023-04-02T06:24:35.961Z",
+            "root_lastaccesstime": "2023-02-21T06:24:35.961Z"
+        }
+    },
+    {
+        "global_id": "8b1f0c8559bf29e3f5e8b2f88ac7cab0",
+        "display_label": "ohio543",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T06:20:45.949Z",
+            "root_actualdeletetime": "2023-04-01T06:20:45.949Z",
+            "root_lastaccesstime": "2023-02-20T06:20:45.949Z"
+        }
+    },
+    {
+        "global_id": "43d6bf4f62fa47279d0359de72fb7402",
+        "display_label": "all-vaweb-p003",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.198.137",
+                "10.138.209.74",
+                "150.105.198.106",
+                "150.105.198.138",
+                "10.138.209.73"
+            ]
+        }
+    },
+    {
+        "global_id": "b9dc60e45a4980478ea9b65e02a1355b",
+        "display_label": "all-vaweb-s002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:00:11.974Z",
+            "root_actualdeletetime": "2023-04-02T05:00:11.974Z",
+            "root_lastaccesstime": "2023-02-21T05:00:11.974Z"
+        }
+    },
+    {
+        "global_id": "5e7acc0053d92fae1bbc555af3375d2b",
+        "display_label": "lit-vams-p049",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:04:44.727Z",
+            "root_actualdeletetime": "2023-04-02T06:04:44.727Z",
+            "root_lastaccesstime": "2023-02-21T06:04:44.727Z"
+        }
+    },
+    {
+        "global_id": "96586587206f0832bf63deaa26c0d88a",
+        "display_label": "am2-vams-b153",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:22:21.178Z",
+            "root_actualdeletetime": "2023-04-02T05:22:21.178Z",
+            "root_lastaccesstime": "2023-02-21T05:22:21.178Z"
+        }
+    },
+    {
+        "global_id": "a04e1af8da46cfa134b3be40cd05e704",
+        "display_label": "all-vadl-s030",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T04:58:41.051Z",
+            "root_actualdeletetime": "2023-04-02T04:58:41.051Z",
+            "root_lastaccesstime": "2023-02-21T04:58:41.051Z"
+        }
+    },
+    {
+        "global_id": "4b72ea8eb9acb297a17502ffa473d320",
+        "display_label": "osa-vams-b081",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:27:57.167Z",
+            "root_actualdeletetime": "2023-04-02T05:27:57.167Z",
+            "root_lastaccesstime": "2023-02-21T05:27:57.167Z"
+        }
+    },
+    {
+        "global_id": "4c88302da0452fc8aa6a45417303ff7d",
+        "display_label": "osa-vams-p081",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:00:47.099Z",
+            "root_actualdeletetime": "2023-04-02T05:00:47.099Z",
+            "root_lastaccesstime": "2023-02-21T05:00:47.099Z"
+        }
+    },
+    {
+        "global_id": "86793d81702a5230a6315871d387b47c",
+        "display_label": "lit-vams-p109",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:30:57.637Z",
+            "root_actualdeletetime": "2023-04-02T06:30:57.637Z",
+            "root_lastaccesstime": "2023-02-21T06:30:57.637Z"
+        }
+    },
+    {
+        "global_id": "252de5b95efe60a7c2503251e63c4f5b",
+        "display_label": "ohio491",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:09:55.966Z",
+            "root_actualdeletetime": "2023-04-02T05:09:55.966Z",
+            "root_lastaccesstime": "2023-02-21T05:09:55.966Z"
+        }
+    },
+    {
+        "global_id": "dd1a0dab91315b033f0ec0cb86f3d1db",
+        "display_label": "all-vadl-s049",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:36:41.346Z",
+            "root_actualdeletetime": "2023-04-02T05:36:41.346Z",
+            "root_lastaccesstime": "2023-02-21T05:36:41.346Z"
+        }
+    },
+    {
+        "global_id": "3e30107036b1119c2e9b70a793e3c882",
+        "display_label": "wok-vams-b013",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:18:15.550Z",
+            "root_actualdeletetime": "2023-04-02T05:18:15.550Z",
+            "root_lastaccesstime": "2023-02-21T05:18:15.550Z"
+        }
+    },
+    {
+        "global_id": "b50e5658b01ba517e9d8906214f20836",
+        "display_label": "ls2-vams-p017",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-11T05:46:50.274Z",
+            "root_actualdeletetime": "2023-03-31T05:46:50.274Z",
+            "root_lastaccesstime": "2023-02-19T05:46:50.274Z"
+        }
+    },
+    {
+        "global_id": "43497c6951ec716a6eebbb3f44e4bd61",
+        "display_label": "all-vams-z119",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "472384bba27269b793bb433d81f74259",
+        "display_label": "tok-vams-b080",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:09:06.778Z",
+            "root_actualdeletetime": "2023-04-02T05:09:06.778Z",
+            "root_lastaccesstime": "2023-02-21T05:09:06.778Z"
+        }
+    },
+    {
+        "global_id": "daad024e1ac734af6700db55c7ff86ee",
+        "display_label": "lit-vwms-p034",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:50:30.387Z",
+            "root_actualdeletetime": "2023-04-02T06:50:30.387Z",
+            "root_lastaccesstime": "2023-02-21T06:50:30.387Z"
+        }
+    },
+    {
+        "global_id": "605aa3c7ffbd102ec75a93841104cb3d",
+        "display_label": "ohio595",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:31:55.467Z",
+            "root_actualdeletetime": "2023-04-02T05:31:55.467Z",
+            "root_lastaccesstime": "2023-02-21T05:31:55.467Z"
+        }
+    },
+    {
+        "global_id": "510f2510cef78b6ba7c841fc27b5ec1a",
+        "display_label": "lit-vwms-p007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:16:46.892Z",
+            "root_actualdeletetime": "2023-04-02T06:16:46.892Z",
+            "root_lastaccesstime": "2023-02-21T06:16:46.892Z"
+        }
+    },
+    {
+        "global_id": "8ada5b93c33731fca983e5b4c5dec871",
+        "display_label": "all-vams-b038",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:10.551Z",
+            "root_actualdeletetime": "2023-04-02T05:39:10.551Z",
+            "root_lastaccesstime": "2023-02-21T05:39:10.551Z"
+        }
+    },
+    {
+        "global_id": "34e52cce54fff96e0b2186fd88d31fd5",
+        "display_label": "all-vach-p009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:46:50.891Z",
+            "root_actualdeletetime": "2023-03-30T05:46:50.891Z",
+            "root_lastaccesstime": "2023-02-18T05:46:50.891Z"
+        }
+    },
+    {
+        "global_id": "3fdb0f3aeca634fef4fd66a5fc2997c6",
+        "display_label": "lit-vams-b047",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:55.472Z",
+            "root_actualdeletetime": "2023-04-02T05:38:55.472Z",
+            "root_lastaccesstime": "2023-02-21T05:38:55.472Z"
+        }
+    },
+    {
+        "global_id": "f303b6bd5dcac94bf4d2fef389407505",
+        "display_label": "lit-vams-b056",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:16:02.595Z",
+            "root_actualdeletetime": "2023-04-02T06:16:02.595Z",
+            "root_lastaccesstime": "2023-02-21T06:16:02.595Z"
+        }
+    },
+    {
+        "global_id": "4979aa5d0455a165bc1fec49b80eaa37",
+        "display_label": "lit-vams-b006",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:13:42.625Z",
+            "dns_servers": [
+                "150.105.166.137",
+                "150.105.166.106",
+                "10.136.209.73",
+                "10.136.209.74"
+            ],
+            "root_actualdeletetime": "2023-04-02T05:13:42.625Z",
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ],
+            "root_lastaccesstime": "2023-02-21T05:13:42.625Z"
+        }
+    },
+    {
+        "global_id": "4bfe455c6ab00570a41a469b25f4aeb1",
+        "display_label": "lit-vams-b283",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:21:00.677Z",
+            "root_actualdeletetime": "2023-04-02T05:21:00.677Z",
+            "root_lastaccesstime": "2023-02-21T05:21:00.677Z"
+        }
+    },
+    {
+        "global_id": "cbcd17ba933652fb406bb2c25c88874e",
+        "display_label": "ohap0007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:42:51.522Z",
+            "root_actualdeletetime": "2023-04-02T05:42:51.522Z",
+            "root_lastaccesstime": "2023-02-21T05:42:51.522Z"
+        }
+    },
+    {
+        "global_id": "bbe2bcde70f0dcddbda7f37a58842c8a",
+        "display_label": "tok-vams-p062",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:15:41.688Z",
+            "root_actualdeletetime": "2023-04-02T06:15:41.688Z",
+            "root_lastaccesstime": "2023-02-21T06:15:41.688Z"
+        }
+    },
+    {
+        "global_id": "2d34ce837b5c20a86c25de282c95953c",
+        "display_label": "all-vams-b109",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:32:41.514Z",
+            "root_actualdeletetime": "2023-04-02T05:32:41.514Z",
+            "root_lastaccesstime": "2023-02-21T05:32:41.514Z"
+        }
+    },
+    {
+        "global_id": "07563b8697b78a19a9793b6d2aac23b7",
+        "display_label": "all-vams-p026",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:06:39.458Z",
+            "root_actualdeletetime": "2023-03-29T06:06:39.458Z",
+            "root_lastaccesstime": "2023-02-17T06:06:39.458Z"
+        }
+    },
+    {
+        "global_id": "93f16c49568d438d212ce94e62cd9e3a",
+        "display_label": "tok-vams-p060",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:15:19.392Z",
+            "root_actualdeletetime": "2023-04-02T05:15:19.392Z",
+            "root_lastaccesstime": "2023-02-21T05:15:19.392Z"
+        }
+    },
+    {
+        "global_id": "434c2d498a1b0a0af6f5d991d8298958",
+        "display_label": "all-vams-b051",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:06:45.744Z",
+            "dns_servers": [
+                "150.105.198.137",
+                "150.105.198.106",
+                "10.138.209.73",
+                "10.138.209.74"
+            ],
+            "root_actualdeletetime": "2023-04-02T06:06:45.744Z",
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ],
+            "root_lastaccesstime": "2023-02-21T06:06:45.744Z"
+        }
+    },
+    {
+        "global_id": "629d52739b882213c8184ff473165b0a",
+        "display_label": "lit-vacp-b028",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:00:37.193Z",
+            "root_actualdeletetime": "2023-04-02T05:00:37.193Z",
+            "root_lastaccesstime": "2023-02-21T05:00:37.193Z"
+        }
+    },
+    {
+        "global_id": "5f588ed106a312b2366e93b709ffade7",
+        "display_label": "all-vwms-p009",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.73",
+                "150.105.198.138",
+                "150.105.198.137",
+                "10.138.209.74",
+                "150.105.198.106"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "e1b1756d1c73e1419f8eb2dc279ad721",
+        "display_label": "wok-vams-p017",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:10:29.872Z",
+            "root_actualdeletetime": "2023-04-02T06:10:29.872Z",
+            "root_lastaccesstime": "2023-02-21T06:10:29.872Z"
+        }
+    },
+    {
+        "global_id": "1d03778f725b6626adf06d4562c2f6ca",
+        "display_label": "lit-vams-p123",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:40:05.082Z",
+            "root_actualdeletetime": "2023-04-02T06:40:05.082Z",
+            "root_lastaccesstime": "2023-02-21T06:40:05.082Z"
+        }
+    },
+    {
+        "global_id": "63d36cb617b837feb5e38129be189ac2",
+        "display_label": "ohio709",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:43:02.464Z",
+            "root_actualdeletetime": "2023-03-29T06:43:02.464Z",
+            "root_lastaccesstime": "2023-02-17T06:43:02.464Z"
+        }
+    },
+    {
+        "global_id": "134b16ce62b048a7d3eb270a39b871cb",
+        "display_label": "all-vams-p018",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T05:15:10.590Z",
+            "root_actualdeletetime": "2023-03-29T05:15:10.590Z",
+            "root_lastaccesstime": "2023-02-17T05:15:10.590Z"
+        }
+    },
+    {
+        "global_id": "0a90d74e53cc46417f671701ae563641",
+        "display_label": "all-vams-b009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:41:33.209Z",
+            "root_actualdeletetime": "2023-04-02T05:41:33.209Z",
+            "root_lastaccesstime": "2023-02-21T05:41:33.209Z"
+        }
+    },
+    {
+        "global_id": "d8e2afc3612b685ac21c69db21a87fe5",
+        "display_label": "ohap0057",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:09:27.450Z",
+            "root_actualdeletetime": "2023-04-02T05:09:27.450Z",
+            "root_lastaccesstime": "2023-02-21T05:09:27.450Z"
+        }
+    },
+    {
+        "global_id": "36c378e72c0e50123ab2b505e02d6b68",
+        "display_label": "all-vams-b145",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:16:02.323Z",
+            "root_actualdeletetime": "2023-04-01T05:16:02.323Z",
+            "root_lastaccesstime": "2023-02-20T05:16:02.323Z"
+        }
+    },
+    {
+        "global_id": "552181cbdc9752482e5e8de933f15df1",
+        "display_label": "lit-vams-p052",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:58:09.440Z",
+            "root_actualdeletetime": "2023-04-02T05:58:09.440Z",
+            "root_lastaccesstime": "2023-02-21T05:58:09.440Z"
+        }
+    },
+    {
+        "global_id": "4d498a2ce19d294f8fae85cd322d45b0",
+        "display_label": "tok-vwms-p012",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:03:23.288Z",
+            "root_actualdeletetime": "2023-04-02T06:03:23.288Z",
+            "root_lastaccesstime": "2023-02-21T06:03:23.288Z"
+        }
+    },
+    {
+        "global_id": "e61bae9b0a3e326301deace9584b2c70",
+        "display_label": "amap9012",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:32:43.452Z",
+            "root_actualdeletetime": "2023-04-02T05:32:43.452Z",
+            "root_lastaccesstime": "2023-02-21T05:32:43.452Z"
+        }
+    },
+    {
+        "global_id": "e48b68a6ff1806b95f3a6ae45e80da18",
+        "display_label": "ohio390",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:31:43.592Z",
+            "root_actualdeletetime": "2023-04-02T05:31:43.592Z",
+            "root_lastaccesstime": "2023-02-21T05:31:43.592Z"
+        }
+    },
+    {
+        "global_id": "4e7e269c59b28593aa566c4ff655939e",
+        "display_label": "tok-vwme-b004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:24:02.601Z",
+            "root_actualdeletetime": "2023-04-02T06:24:02.601Z",
+            "root_lastaccesstime": "2023-02-21T06:24:02.601Z"
+        }
+    },
+    {
+        "global_id": "72a9085d266267ba4e7dfe72a281229f",
+        "display_label": "am2-vams-p019",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:51:29.029Z",
+            "root_actualdeletetime": "2023-04-02T05:51:29.029Z",
+            "root_lastaccesstime": "2023-02-21T05:51:29.029Z"
+        }
+    },
+    {
+        "global_id": "8f71af87fce766c2508a93f92ce11af4",
+        "display_label": "ohio393",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:57:09.674Z",
+            "root_actualdeletetime": "2023-04-02T05:57:09.674Z",
+            "root_lastaccesstime": "2023-02-21T05:57:09.674Z"
+        }
+    },
+    {
+        "global_id": "8c3cef755d40c08d693d1844293ecfad",
+        "display_label": "am2-vwos-b002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:56:11.001Z",
+            "root_actualdeletetime": "2023-04-02T05:56:11.001Z",
+            "root_lastaccesstime": "2023-02-21T05:56:11.001Z"
+        }
+    },
+    {
+        "global_id": "493f0452324ca24ab7cb256750c2f45e",
+        "display_label": "tok-vame-b004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:09:01.417Z",
+            "root_actualdeletetime": "2023-04-02T06:09:01.417Z",
+            "root_lastaccesstime": "2023-02-21T06:09:01.417Z"
+        }
+    },
+    {
+        "global_id": "fedce2e9c21e4b336b13116f39ae3313",
+        "display_label": "ohio494",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:49:57.205Z",
+            "root_actualdeletetime": "2023-03-30T05:49:57.205Z",
+            "root_lastaccesstime": "2023-02-18T05:49:57.205Z"
+        }
+    },
+    {
+        "global_id": "98446d63a4127408679c72cb869306f2",
+        "display_label": "lit-vams-p015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:10:32.669Z",
+            "root_actualdeletetime": "2023-04-02T05:10:32.669Z",
+            "root_lastaccesstime": "2023-02-21T05:10:32.669Z"
+        }
+    },
+    {
+        "global_id": "a66dbe9c0c54c5b1d7ff923ac1c1ecae",
+        "display_label": "ohap0107",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:20:32.396Z",
+            "root_actualdeletetime": "2023-04-02T05:20:32.396Z",
+            "root_lastaccesstime": "2023-02-21T05:20:32.396Z"
+        }
+    },
+    {
+        "global_id": "c131457ebfff7110cca2dc2947da7a42",
+        "display_label": "osa-vams-p056",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:26:11.018Z",
+            "root_actualdeletetime": "2023-04-01T05:26:11.018Z",
+            "root_lastaccesstime": "2023-02-20T05:26:11.018Z"
+        }
+    },
+    {
+        "global_id": "44fcc534fa1c1eb784b0d995d0911ec6",
+        "display_label": "osa-vame-b003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:16:29.205Z",
+            "root_actualdeletetime": "2023-04-02T05:16:29.205Z",
+            "root_lastaccesstime": "2023-02-21T05:16:29.205Z"
+        }
+    },
+    {
+        "global_id": "6c4d01805b85e5f771d943db9a59d3a4",
+        "display_label": "lit-vams-b054x",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:35:33.188Z",
+            "root_actualdeletetime": "2023-04-02T05:35:33.188Z",
+            "root_lastaccesstime": "2023-02-21T05:35:33.188Z"
+        }
+    },
+    {
+        "global_id": "81f0e952cb5b337fcd9bb7e5d089f00d",
+        "display_label": "ohio539",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:43:23.819Z",
+            "root_actualdeletetime": "2023-04-02T05:43:23.819Z",
+            "root_lastaccesstime": "2023-02-21T05:43:23.819Z"
+        }
+    },
+    {
+        "global_id": "b83b8c9c444ae36a13e959a3c7fa1715",
+        "display_label": "ams743",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:49:43.199Z",
+            "root_actualdeletetime": "2023-04-02T06:49:43.199Z",
+            "root_lastaccesstime": "2023-02-21T06:49:43.199Z"
+        }
+    },
+    {
+        "global_id": "43bfdb1935c226b1b9627bbe99053a9f",
+        "display_label": "bp-vams-s146",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:47:36.891Z",
+            "root_actualdeletetime": "2023-03-30T05:47:36.891Z",
+            "root_lastaccesstime": "2023-02-18T05:47:36.891Z"
+        }
+    },
+    {
+        "global_id": "4c5b501b6070eda1b7f93854724c2b31",
+        "display_label": "lit-vadl-b010",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:46:48.522Z",
+            "root_actualdeletetime": "2023-03-29T06:46:48.522Z",
+            "root_lastaccesstime": "2023-02-17T06:46:48.522Z"
+        }
+    },
+    {
+        "global_id": "73b733309698fe59ed245f807c234df5",
+        "display_label": "lit-vams-p223",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:28:34.057Z",
+            "root_actualdeletetime": "2023-04-02T06:28:34.057Z",
+            "root_lastaccesstime": "2023-02-21T06:28:34.057Z"
+        }
+    },
+    {
+        "global_id": "6e13c3bf00e3f57b5f8464a8f4d44766",
+        "display_label": "all-vacp-p031",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:42:02.202Z",
+            "root_actualdeletetime": "2023-04-01T05:42:02.202Z",
+            "root_lastaccesstime": "2023-02-20T05:42:02.202Z"
+        }
+    },
+    {
+        "global_id": "38ad796d031b92a84c97ac1c07516922",
+        "display_label": "ohio500",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:30:48.784Z",
+            "root_actualdeletetime": "2023-03-30T05:30:48.784Z",
+            "root_lastaccesstime": "2023-02-18T05:30:48.784Z"
+        }
+    },
+    {
+        "global_id": "841b30580cff3a7066ff4d20ce066de7",
+        "display_label": "lit-vwcp-p015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:43:33.741Z",
+            "root_actualdeletetime": "2023-04-02T05:43:33.741Z",
+            "root_lastaccesstime": "2023-02-21T05:43:33.741Z"
+        }
+    },
+    {
+        "global_id": "c383d9fd24199749967750ddfeb1c379",
+        "display_label": "bp-vdb05-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:01:09.927Z",
+            "root_actualdeletetime": "2023-04-02T06:01:09.927Z",
+            "root_lastaccesstime": "2023-02-21T06:01:09.927Z"
+        }
+    },
+    {
+        "global_id": "4dce64d6d7d721fcb56f346e4ed223a8",
+        "display_label": "bp-vams-s142",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:45.442Z",
+            "root_actualdeletetime": "2023-04-02T05:39:45.442Z",
+            "root_lastaccesstime": "2023-02-21T05:39:45.442Z"
+        }
+    },
+    {
+        "global_id": "c71c6a3f3e0e9d1654f65db2ee22fbf6",
+        "display_label": "lit-vams-b183",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:37:28.909Z",
+            "root_actualdeletetime": "2023-04-02T05:37:28.909Z",
+            "root_lastaccesstime": "2023-02-21T05:37:28.909Z"
+        }
+    },
+    {
+        "global_id": "8201204fc6e49f19431035c3d02be16f",
+        "display_label": "am2-vams-p027",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:50:35.544Z",
+            "root_actualdeletetime": "2023-04-02T05:50:35.544Z",
+            "root_lastaccesstime": "2023-02-21T05:50:35.544Z"
+        }
+    },
+    {
+        "global_id": "4da3d34125b6c5dbb2370dbd1b0621e4",
+        "display_label": "bp-dbrac02-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:05:00.305Z",
+            "root_actualdeletetime": "2023-04-02T06:05:00.305Z",
+            "root_lastaccesstime": "2023-02-21T06:05:00.305Z"
+        }
+    },
+    {
+        "global_id": "9e060453a66c1e329de4f66e091e39f8",
+        "display_label": "lit-vams-b130",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:53:22.336Z",
+            "root_actualdeletetime": "2023-04-01T05:53:22.336Z",
+            "root_lastaccesstime": "2023-02-20T05:53:22.336Z"
+        }
+    },
+    {
+        "global_id": "107cc258bf0cd0be9369747542b9cd1d",
+        "display_label": "lit-vams-b058",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:09:11.543Z",
+            "root_actualdeletetime": "2023-04-02T05:09:11.543Z",
+            "root_lastaccesstime": "2023-02-21T05:09:11.543Z"
+        }
+    },
+    {
+        "global_id": "4495dbcc5230aa7f9e3a7bb033dd0f44",
+        "display_label": "lit-vwcp-b017x",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:09:15.200Z",
+            "root_actualdeletetime": "2023-04-02T05:09:15.200Z",
+            "root_lastaccesstime": "2023-02-21T05:09:15.200Z"
+        }
+    },
+    {
+        "global_id": "73cbc23aae1368ef02652e7681d8af75",
+        "display_label": "lit-vdb02-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:05:23.410Z",
+            "root_actualdeletetime": "2023-03-29T06:05:23.410Z",
+            "root_lastaccesstime": "2023-02-17T06:05:23.410Z"
+        }
+    },
+    {
+        "global_id": "203372295fc404ea2614cafab93eafb7",
+        "display_label": "lit-vams-b161",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:05:14.004Z",
+            "root_actualdeletetime": "2023-03-29T06:05:14.004Z",
+            "root_lastaccesstime": "2023-02-17T06:05:14.004Z"
+        }
+    },
+    {
+        "global_id": "2e17cce27e5d909ae3442d2a54063aa5",
+        "display_label": "lit-vams-p110",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:33:01.592Z",
+            "root_actualdeletetime": "2023-04-02T06:33:01.592Z",
+            "root_lastaccesstime": "2023-02-21T06:33:01.592Z"
+        }
+    },
+    {
+        "global_id": "a44e9a9f5a54a101e943077bd1d8b697",
+        "display_label": "all-vams-s126",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "4bdf7de43ce327daa1b03986594f7b1f",
+        "display_label": "lit-vadl-b002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:30:37.012Z",
+            "root_actualdeletetime": "2023-04-02T06:30:37.012Z",
+            "root_lastaccesstime": "2023-02-21T06:30:37.012Z"
+        }
+    },
+    {
+        "global_id": "409e21603f912e9bb17049a6158171b8",
+        "display_label": "tok-vams-p076",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:50:06.105Z",
+            "root_actualdeletetime": "2023-04-02T06:50:06.105Z",
+            "root_lastaccesstime": "2023-02-21T06:50:06.105Z"
+        }
+    },
+    {
+        "global_id": "4b38a2860465f4a59bff2994c7a32d83",
+        "display_label": "tok-vame-b003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:44:59.367Z",
+            "root_actualdeletetime": "2023-04-02T06:44:59.367Z",
+            "root_lastaccesstime": "2023-02-21T06:44:59.367Z"
+        }
+    },
+    {
+        "global_id": "2b94178d14c86aa3f91d92ec196edd7a",
+        "display_label": "lit-vams-p035",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:18:27.143Z",
+            "root_actualdeletetime": "2023-04-02T06:18:27.143Z",
+            "root_lastaccesstime": "2023-02-21T06:18:27.143Z"
+        }
+    },
+    {
+        "global_id": "9f8dd7bb8557efd746292eccc387c535",
+        "display_label": "lit-vams-p093",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:05:02.149Z",
+            "root_actualdeletetime": "2023-04-02T06:05:02.149Z",
+            "root_lastaccesstime": "2023-02-21T06:05:02.149Z"
+        }
+    },
+    {
+        "global_id": "2f7e60799fa74fe160a6d71c6063b444",
+        "display_label": "lit-vams-q003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-08T05:16:47.403Z",
+            "root_actualdeletetime": "2023-03-28T05:16:47.403Z",
+            "root_lastaccesstime": "2023-02-16T05:16:47.403Z"
+        }
+    },
+    {
+        "global_id": "8bd7cee7998c8b908bd9435265abbff3",
+        "display_label": "all-vadl-s032",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:24:20.649Z",
+            "root_actualdeletetime": "2023-04-02T05:24:20.649Z",
+            "root_lastaccesstime": "2023-02-21T05:24:20.649Z"
+        }
+    },
+    {
+        "global_id": "6db5a13f77ebabc026d3eebfe2e8ab33",
+        "display_label": "lit-vwms-b011",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:34:47.954Z",
+            "root_actualdeletetime": "2023-04-02T05:34:47.954Z",
+            "root_lastaccesstime": "2023-02-21T05:34:47.954Z"
+        }
+    },
+    {
+        "global_id": "a46a159d2dd6a9bcb2a95a418b96ed01",
+        "display_label": "all-vwms-b005",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:19:05.363Z",
+            "dns_servers": [
+                "10.138.209.73",
+                "10.138.209.74",
+                "150.105.198.106",
+                "150.105.198.138",
+                "150.105.198.137"
+            ],
+            "root_actualdeletetime": "2023-04-02T06:19:05.363Z",
+            "root_lastaccesstime": "2023-02-21T06:19:05.363Z"
+        }
+    },
+    {
+        "global_id": "ee750492622a27bcc7eb055545c0cf5c",
+        "display_label": "all-vams-b008",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:47.410Z",
+            "root_actualdeletetime": "2023-04-02T05:39:47.410Z",
+            "root_lastaccesstime": "2023-02-21T05:39:47.410Z"
+        }
+    },
+    {
+        "global_id": "42534be9e18c55ff8acceef372396ce1",
+        "display_label": "bp-vadl-s063",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:51:10.425Z",
+            "root_actualdeletetime": "2023-03-30T05:51:10.425Z",
+            "root_lastaccesstime": "2023-02-18T05:51:10.425Z"
+        }
+    },
+    {
+        "global_id": "6309276ca0eb260f7c2b92ab722303f7",
+        "display_label": "lit-vwmsm-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:10.551Z",
+            "root_actualdeletetime": "2023-04-02T05:39:10.551Z",
+            "root_lastaccesstime": "2023-02-21T05:39:10.551Z"
+        }
+    },
+    {
+        "global_id": "58507ea2b25a88ff6dab8030cd3cdd71",
+        "display_label": "all-vwms-p006",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:31:19.998Z",
+            "root_actualdeletetime": "2023-04-02T05:31:19.998Z",
+            "root_lastaccesstime": "2023-02-21T05:31:19.998Z"
+        }
+    },
+    {
+        "global_id": "99df265c508b2d717f9845cf0ff43193",
+        "display_label": "lit-vams-b053",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.137",
+                "10.136.209.74",
+                "150.105.166.106",
+                "10.136.209.73"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "7e6a93ff2b59d9c9ceb31aa9f9d0b46a",
+        "display_label": "osa-vams-p065",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:01:22.303Z",
+            "root_actualdeletetime": "2023-04-02T05:01:22.303Z",
+            "root_lastaccesstime": "2023-02-21T05:01:22.303Z"
+        }
+    },
+    {
+        "global_id": "62e3fe75e859b6cfbb17476617d2c81e",
+        "display_label": "all-vwcp-p016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:18:59.441Z",
+            "root_actualdeletetime": "2023-04-02T05:18:59.441Z",
+            "root_lastaccesstime": "2023-02-21T05:18:59.441Z"
+        }
+    },
+    {
+        "global_id": "41ca3ee4d4b485f18060e874c6bfc810",
+        "display_label": "bp-vams-s147",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:27:22.963Z",
+            "root_actualdeletetime": "2023-04-02T05:27:22.963Z",
+            "root_lastaccesstime": "2023-02-21T05:27:22.963Z"
+        }
+    },
+    {
+        "global_id": "a17010178dedfa4087ccfc357739793a",
+        "display_label": "lit-vwms-b005",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:41:40.905Z",
+            "root_actualdeletetime": "2023-04-01T05:41:40.905Z",
+            "root_lastaccesstime": "2023-02-20T05:41:40.905Z"
+        }
+    },
+    {
+        "global_id": "e205e4d696618d2ecc81024384359365",
+        "display_label": "all-vwms-p003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:03:00.695Z",
+            "root_actualdeletetime": "2023-04-02T05:03:00.695Z",
+            "root_lastaccesstime": "2023-02-21T05:03:00.695Z"
+        }
+    },
+    {
+        "global_id": "55a78b3e90cd87337c7f7aaa422fc41f",
+        "display_label": "bp-vwms-p002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:27:41.073Z",
+            "root_actualdeletetime": "2023-04-02T05:27:41.073Z",
+            "root_lastaccesstime": "2023-02-21T05:27:41.073Z"
+        }
+    },
+    {
+        "global_id": "e4a44915bffd4584fbb0d3347931463c",
+        "display_label": "all-vwms-b014",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:05:22.728Z",
+            "root_actualdeletetime": "2023-04-02T05:05:22.728Z",
+            "root_lastaccesstime": "2023-02-21T05:05:22.728Z"
+        }
+    },
+    {
+        "global_id": "48742fda688fe8f8877e3a86c55c0707",
+        "display_label": "bp-vams-s152",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:43:23.172Z",
+            "root_actualdeletetime": "2023-04-01T05:43:23.172Z",
+            "root_lastaccesstime": "2023-02-20T05:43:23.172Z"
+        }
+    },
+    {
+        "global_id": "f122a2d610f0f4c97f1ec1fe8e6a0797",
+        "display_label": "all-vams-s053",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:08:41.605Z",
+            "root_actualdeletetime": "2023-04-02T05:08:41.605Z",
+            "root_lastaccesstime": "2023-02-21T05:08:41.605Z"
+        }
+    },
+    {
+        "global_id": "df004111201ef8c84eca58115c95801a",
+        "display_label": "ohap0001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:19:45.536Z",
+            "root_actualdeletetime": "2023-04-02T05:19:45.536Z",
+            "root_lastaccesstime": "2023-02-21T05:19:45.536Z"
+        }
+    },
+    {
+        "global_id": "806c457ae19489e12bf5e1dd8de1a935",
+        "display_label": "all-vams-b063",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:47:44.635Z",
+            "root_actualdeletetime": "2023-04-02T05:47:44.635Z",
+            "root_lastaccesstime": "2023-02-21T05:47:44.635Z"
+        }
+    },
+    {
+        "global_id": "6a1dd8669d6d281cee4b38e1d181c779",
+        "display_label": "lit-vams-p014",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:03:07.945Z",
+            "root_actualdeletetime": "2023-04-02T05:03:07.945Z",
+            "root_lastaccesstime": "2023-02-21T05:03:07.945Z"
+        }
+    },
+    {
+        "global_id": "9439ecb1e29cc26d86e3efb92dfaae99",
+        "display_label": "ohio499",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:44:11.679Z",
+            "root_actualdeletetime": "2023-04-02T06:44:11.679Z",
+            "root_lastaccesstime": "2023-02-21T06:44:11.679Z"
+        }
+    },
+    {
+        "global_id": "6a5cabc8c56c0fbf87090645ba92b01d",
+        "display_label": "lit-vams-p096",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:01:12.224Z",
+            "root_actualdeletetime": "2023-04-02T06:01:12.224Z",
+            "root_lastaccesstime": "2023-02-21T06:01:12.224Z"
+        }
+    },
+    {
+        "global_id": "7ca5f7a09d5757a007988b8d37006d96",
+        "display_label": "lit-vame-b004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:11:46.029Z",
+            "root_actualdeletetime": "2023-04-02T06:11:46.029Z",
+            "root_lastaccesstime": "2023-02-21T06:11:46.029Z"
+        }
+    },
+    {
+        "global_id": "08a839b34d1a2d7bac82634527a95a0b",
+        "display_label": "bp-vwms-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:16:25.721Z",
+            "root_actualdeletetime": "2023-04-02T05:16:25.721Z",
+            "root_lastaccesstime": "2023-02-21T05:16:25.721Z"
+        }
+    },
+    {
+        "global_id": "70a06b196866b9307aabecad9100d1b8",
+        "display_label": "lit-vwms-p004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:24:02.601Z",
+            "root_actualdeletetime": "2023-04-02T06:24:02.601Z",
+            "root_lastaccesstime": "2023-02-21T06:24:02.601Z"
+        }
+    },
+    {
+        "global_id": "51a8d70c360c9204da801de739fc0a20",
+        "display_label": "all-vams-b110",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:15:22.360Z",
+            "root_actualdeletetime": "2023-04-02T05:15:22.360Z",
+            "root_lastaccesstime": "2023-02-21T05:15:22.360Z"
+        }
+    },
+    {
+        "global_id": "400274a8923bf5538288a0c7891d6e8d",
+        "display_label": "osa-vams-b076",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:41:07.646Z",
+            "root_actualdeletetime": "2023-04-02T05:41:07.646Z",
+            "root_lastaccesstime": "2023-02-21T05:41:07.646Z"
+        }
+    },
+    {
+        "global_id": "202bdfc424e4638dafebf7ad8c717fee",
+        "display_label": "all-vadl-s035",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:11:26.779Z",
+            "root_actualdeletetime": "2023-04-02T05:11:26.779Z",
+            "root_lastaccesstime": "2023-02-21T05:11:26.779Z"
+        }
+    },
+    {
+        "global_id": "7d9b64d4ac211ae2ed48d8422c557d86",
+        "display_label": "ohio140",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:37:49.674Z",
+            "root_actualdeletetime": "2023-04-02T06:37:49.674Z",
+            "root_lastaccesstime": "2023-02-21T06:37:49.674Z"
+        }
+    },
+    {
+        "global_id": "43d90b550e81a17b3c560d144f232225",
+        "display_label": "all-vams-s046",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.74",
+                "10.138.209.73",
+                "150.105.198.106",
+                "150.105.198.138",
+                "150.105.198.137"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "f684a74ae9974a157d691cf057fc1199",
+        "display_label": "ams220",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:12:29.030Z",
+            "root_actualdeletetime": "2023-04-02T05:12:29.030Z",
+            "root_lastaccesstime": "2023-02-21T05:12:29.030Z"
+        }
+    },
+    {
+        "global_id": "2598d23f2c2bd65c7fa0011e6c402fd6",
+        "display_label": "lit-vwms-p021",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:34:25.874Z",
+            "root_actualdeletetime": "2023-04-02T06:34:25.874Z",
+            "root_lastaccesstime": "2023-02-21T06:34:25.874Z"
+        }
+    },
+    {
+        "global_id": "028a5a4013b4649ac82cbc10aedabe02",
+        "display_label": "lit-vams-p151",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:04:00.492Z",
+            "root_actualdeletetime": "2023-04-02T06:04:00.492Z",
+            "root_lastaccesstime": "2023-02-21T06:04:00.492Z"
+        }
+    },
+    {
+        "global_id": "42dc1ccc1ea4a28096df95b2d527e9b1",
+        "display_label": "lit-vwms-p027",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:48:57.807Z",
+            "root_actualdeletetime": "2023-04-02T06:48:57.807Z",
+            "root_lastaccesstime": "2023-02-21T06:48:57.807Z"
+        }
+    },
+    {
+        "global_id": "9f5fd2c545a8877a9df94ecee3fd8575",
+        "display_label": "all-vaasn-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:00:19.068Z",
+            "root_actualdeletetime": "2023-04-02T05:00:19.068Z",
+            "root_lastaccesstime": "2023-02-21T05:00:19.068Z"
+        }
+    },
+    {
+        "global_id": "0b1b73163dbaa7a8ebfd92c99dc933a1",
+        "display_label": "am2-vams-b017",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:48:18.119Z",
+            "root_actualdeletetime": "2023-04-02T06:48:18.119Z",
+            "root_lastaccesstime": "2023-02-21T06:48:18.119Z"
+        }
+    },
+    {
+        "global_id": "9dedd0739ef49237445531b918deeb91",
+        "display_label": "all-vach-p100",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:14:29.954Z",
+            "root_actualdeletetime": "2023-04-02T05:14:29.954Z",
+            "root_lastaccesstime": "2023-02-21T05:14:29.954Z"
+        }
+    },
+    {
+        "global_id": "30fab19978994857539c36f901c180fc",
+        "display_label": "lit-vams-p056",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:13:19.171Z",
+            "root_actualdeletetime": "2023-04-02T05:13:19.171Z",
+            "root_lastaccesstime": "2023-02-21T05:13:19.171Z"
+        }
+    },
+    {
+        "global_id": "423a18a5faa4622eb79fcf88649ade1b",
+        "display_label": "lit-vadl-p013",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:30:24.517Z",
+            "root_actualdeletetime": "2023-03-29T06:30:24.517Z",
+            "root_lastaccesstime": "2023-02-17T06:30:24.517Z"
+        }
+    },
+    {
+        "global_id": "0200c1b564a0070a824552c9794a0f22",
+        "display_label": "all-vams-b050",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:51:09.935Z",
+            "root_actualdeletetime": "2023-04-02T05:51:09.935Z",
+            "root_lastaccesstime": "2023-02-21T05:51:09.935Z"
+        }
+    },
+    {
+        "global_id": "fb568e66f09fc08cd50d1873ad81f407",
+        "display_label": "all-vams-b148",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:28:08.386Z",
+            "root_actualdeletetime": "2023-04-02T05:28:08.386Z",
+            "root_lastaccesstime": "2023-02-21T05:28:08.386Z"
+        }
+    },
+    {
+        "global_id": "f3ea622798b302ec342677a3ccba4ecc",
+        "display_label": "lit-vwms-p009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:43:57.132Z",
+            "root_actualdeletetime": "2023-04-02T06:43:57.132Z",
+            "root_lastaccesstime": "2023-02-21T06:43:57.132Z"
+        }
+    },
+    {
+        "global_id": "56c619193135baf5096ec569fbad3b9b",
+        "display_label": "lit-vach-p014",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:22:12.131Z",
+            "root_actualdeletetime": "2023-04-02T05:22:12.131Z",
+            "root_lastaccesstime": "2023-02-21T05:22:12.131Z"
+        }
+    },
+    {
+        "global_id": "f3cc35e0ae5824374a6ca6a286f956a4",
+        "display_label": "all-vams-p007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:36:36.221Z",
+            "root_actualdeletetime": "2023-04-02T05:36:36.221Z",
+            "root_lastaccesstime": "2023-02-21T05:36:36.221Z"
+        }
+    },
+    {
+        "global_id": "1bcd49b3d0fe79813be8138604d0e7fa",
+        "display_label": "ls2-vams-p016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:12:57.155Z",
+            "root_actualdeletetime": "2023-04-02T06:12:57.155Z",
+            "root_lastaccesstime": "2023-02-21T06:12:57.155Z"
+        }
+    },
+    {
+        "global_id": "054f18ff8c1390ccac7a43d03db6a446",
+        "display_label": "wok-vams-b120",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:11:40.483Z",
+            "root_actualdeletetime": "2023-04-02T05:11:40.483Z",
+            "root_lastaccesstime": "2023-02-21T05:11:40.483Z"
+        }
+    },
+    {
+        "global_id": "8403be3ee341cb581414b0b6cac8c628",
+        "display_label": "all-vaihub-s003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:06:46.958Z",
+            "root_actualdeletetime": "2023-03-29T06:06:46.958Z",
+            "root_lastaccesstime": "2023-02-17T06:06:46.958Z"
+        }
+    },
+    {
+        "global_id": "b44d81e8044baf51d62ee2218b0c4111",
+        "display_label": "all-vams-u058",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:37:23.893Z",
+            "root_actualdeletetime": "2023-04-02T05:37:23.893Z",
+            "root_lastaccesstime": "2023-02-21T05:37:23.893Z"
+        }
+    },
+    {
+        "global_id": "3597be22c97172abce6d85ab349207a2",
+        "display_label": "ohap9018",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:21:43.975Z",
+            "root_actualdeletetime": "2023-04-02T05:21:43.975Z",
+            "root_lastaccesstime": "2023-02-21T05:21:43.975Z"
+        }
+    },
+    {
+        "global_id": "b9bfa1c53a6fcf427b28be0c988e6172",
+        "display_label": "ohap9011",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:36:10.970Z",
+            "root_actualdeletetime": "2023-04-02T05:36:10.970Z",
+            "root_lastaccesstime": "2023-02-21T05:36:10.970Z"
+        }
+    },
+    {
+        "global_id": "174327925e4f1e5a238cfd7540fe94ed",
+        "display_label": "all-vwdl-s002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-08T06:40:54.593Z",
+            "root_actualdeletetime": "2023-03-28T06:40:54.593Z",
+            "root_lastaccesstime": "2023-02-16T06:40:54.593Z"
+        }
+    },
+    {
+        "global_id": "4b04bdf1da8f35198945b0cde7949609",
+        "display_label": "tok-vams-p080",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:37:19.987Z",
+            "root_actualdeletetime": "2023-04-02T05:37:19.987Z",
+            "root_lastaccesstime": "2023-02-21T05:37:19.987Z"
+        }
+    },
+    {
+        "global_id": "cf725a8b2786c12680adb0d9fd1479cc",
+        "display_label": "all-vams-p023",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:29:39.278Z",
+            "root_actualdeletetime": "2023-04-02T05:29:39.278Z",
+            "root_lastaccesstime": "2023-02-21T05:29:39.278Z"
+        }
+    },
+    {
+        "global_id": "f8e29b80d42dde12f8277c0afea40c86",
+        "display_label": "all-vwms-b011",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:49:28.949Z",
+            "root_actualdeletetime": "2023-04-02T05:49:28.949Z",
+            "root_lastaccesstime": "2023-02-21T05:49:28.949Z"
+        }
+    },
+    {
+        "global_id": "aa0960bbacf610323c47bf803a649758",
+        "display_label": "ohap0006",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:37:17.065Z",
+            "root_actualdeletetime": "2023-04-02T05:37:17.065Z",
+            "root_lastaccesstime": "2023-02-21T05:37:17.065Z"
+        }
+    },
+    {
+        "global_id": "41adf1e85b3c7c6d8456b58865dc2c46",
+        "display_label": "tok-vwms-b010",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:21:46.858Z",
+            "root_actualdeletetime": "2023-04-01T05:21:46.858Z",
+            "root_lastaccesstime": "2023-02-20T05:21:46.858Z"
+        }
+    },
+    {
+        "global_id": "97cd54572bd8d4061828f8efbb9b4a44",
+        "display_label": "all-vwms-p007",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:51:13.466Z",
+            "root_actualdeletetime": "2023-04-02T05:51:13.466Z",
+            "root_lastaccesstime": "2023-02-21T05:51:13.466Z"
+        }
+    },
+    {
+        "global_id": "9f5e5e7f0755655c0dc81a3c0622e660",
+        "display_label": "am2-vams-p100",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:32:15.935Z",
+            "root_actualdeletetime": "2023-04-02T06:32:15.935Z",
+            "root_lastaccesstime": "2023-02-21T06:32:15.935Z"
+        }
+    },
+    {
+        "global_id": "487a64f2f17dfb79a600caeb9435ca84",
+        "display_label": "bp-vams-s141",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:32.847Z",
+            "root_actualdeletetime": "2023-04-02T05:38:32.847Z",
+            "root_lastaccesstime": "2023-02-21T05:38:32.847Z"
+        }
+    },
+    {
+        "global_id": "bb1f6a11363cb261cecb386cbbee80a8",
+        "display_label": "all-vams-b053",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:39:35.473Z",
+            "root_actualdeletetime": "2023-04-02T05:39:35.473Z",
+            "root_lastaccesstime": "2023-02-21T05:39:35.473Z"
+        }
+    },
+    {
+        "global_id": "4ff3f3660aae2206d48300dc218ae995",
+        "display_label": "am2-vams-p104",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:02:20.318Z",
+            "root_actualdeletetime": "2023-04-02T06:02:20.318Z",
+            "root_lastaccesstime": "2023-02-21T06:02:20.318Z"
+        }
+    },
+    {
+        "global_id": "dff9d5a264248b0bf7beca4c19eb41c3",
+        "display_label": "wok-vwos-b002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:06:50.041Z",
+            "root_actualdeletetime": "2023-04-02T06:06:50.041Z",
+            "root_lastaccesstime": "2023-02-21T06:06:50.041Z"
+        }
+    },
+    {
+        "global_id": "4e2353ee48d7b651a27f9cb926727828",
+        "display_label": "lit-vams-q998",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:00:29.005Z",
+            "root_actualdeletetime": "2023-04-02T05:00:29.005Z",
+            "root_lastaccesstime": "2023-02-21T05:00:29.005Z"
+        }
+    },
+    {
+        "global_id": "0491040dd79fa689ad13bcb1b11fe3d9",
+        "display_label": "tok-vams-p057",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:40:39.677Z",
+            "root_actualdeletetime": "2023-04-02T05:40:39.677Z",
+            "root_lastaccesstime": "2023-02-21T05:40:39.677Z"
+        }
+    },
+    {
+        "global_id": "70de43636b90cce1f7bab1423c2fa5da",
+        "display_label": "all-vams-b054",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:33:37.015Z",
+            "root_actualdeletetime": "2023-04-02T05:33:37.015Z",
+            "root_lastaccesstime": "2023-02-21T05:33:37.015Z"
+        }
+    },
+    {
+        "global_id": "4ca3fbe04895fcad9c5bdf830dac4032",
+        "display_label": "osa-vame-b004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:23:41.007Z",
+            "root_actualdeletetime": "2023-04-02T05:23:41.007Z",
+            "root_lastaccesstime": "2023-02-21T05:23:41.007Z"
+        }
+    },
+    {
+        "global_id": "4fc26307f2e1704c5b46222557464f75",
+        "display_label": "all-vams-p038",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:30:08.653Z",
+            "root_actualdeletetime": "2023-04-02T05:30:08.653Z",
+            "root_lastaccesstime": "2023-02-21T05:30:08.653Z"
+        }
+    },
+    {
+        "global_id": "a1b83636a5f84136d24ab2865732e8e0",
+        "display_label": "all-vaasn-p002",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:59:27.410Z",
+            "root_actualdeletetime": "2023-04-02T05:59:27.410Z",
+            "root_lastaccesstime": "2023-02-21T05:59:27.410Z"
+        }
+    },
+    {
+        "global_id": "70b3d6ffdd5d64d4828b1baf6505910d",
+        "display_label": "lit-dbrac03-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:59:52.332Z",
+            "root_actualdeletetime": "2023-04-02T05:59:52.332Z",
+            "root_lastaccesstime": "2023-02-21T05:59:52.332Z"
+        }
+    },
+    {
+        "global_id": "b5403e82018208e0ad7bcf239d6d9cdf",
+        "display_label": "all-vwcp-p015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:14:28.235Z",
+            "root_actualdeletetime": "2023-04-02T05:14:28.235Z",
+            "root_lastaccesstime": "2023-02-21T05:14:28.235Z"
+        }
+    },
+    {
+        "global_id": "55309d5e110438ba854cd25da2f3e09e",
+        "display_label": "all-vwms-b012",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:31:56.764Z",
+            "root_actualdeletetime": "2023-04-02T05:31:56.764Z",
+            "root_lastaccesstime": "2023-02-21T05:31:56.764Z"
+        }
+    },
+    {
+        "global_id": "93e1b25349b0d3e8ce247107239584b4",
+        "display_label": "am2-vwos-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:42:53.928Z",
+            "root_actualdeletetime": "2023-04-02T06:42:53.928Z",
+            "root_lastaccesstime": "2023-02-21T06:42:53.928Z"
+        }
+    },
+    {
+        "global_id": "659fb88de1752138401f5b292554cba5",
+        "display_label": "all-vadl-s026",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T05:13:23.792Z",
+            "root_actualdeletetime": "2023-03-29T05:13:23.792Z",
+            "root_lastaccesstime": "2023-02-17T05:13:23.792Z"
+        }
+    },
+    {
+        "global_id": "115799df0077a2f769b15f6fc3b02847",
+        "display_label": "ohio013",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:15:15.844Z",
+            "root_actualdeletetime": "2023-04-02T06:15:15.844Z",
+            "root_lastaccesstime": "2023-02-21T06:15:15.844Z"
+        }
+    },
+    {
+        "global_id": "50e2f996c494da6420905f17f9c9afcc",
+        "display_label": "all-vaodx-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:41:36.239Z",
+            "root_actualdeletetime": "2023-04-02T06:41:36.239Z",
+            "root_lastaccesstime": "2023-02-21T06:41:36.239Z"
+        }
+    },
+    {
+        "global_id": "b5264d0af38a57693d2b4e884593f1f7",
+        "display_label": "all-vwdl-s003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:55:06.486Z",
+            "root_actualdeletetime": "2023-03-29T06:55:06.486Z",
+            "root_lastaccesstime": "2023-02-17T06:55:06.486Z"
+        }
+    },
+    {
+        "global_id": "3d4f6d101f607bacc7be8d7a9e644492",
+        "display_label": "ls2-vams-b008",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:05:36.962Z",
+            "root_actualdeletetime": "2023-04-02T05:05:36.962Z",
+            "root_lastaccesstime": "2023-02-21T05:05:36.962Z"
+        }
+    },
+    {
+        "global_id": "4832b5f81156349bb0bfdc5af3e80b22",
+        "display_label": "all-vadl-b001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-08T06:22:45.735Z",
+            "root_actualdeletetime": "2023-03-28T06:22:45.735Z",
+            "root_lastaccesstime": "2023-02-16T06:22:45.735Z"
+        }
+    },
+    {
+        "global_id": "305d65d08b1343dfb057cee8837e2d91",
+        "display_label": "am2-vams-p017",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:08:32.902Z",
+            "root_actualdeletetime": "2023-04-02T05:08:32.902Z",
+            "root_lastaccesstime": "2023-02-21T05:08:32.902Z"
+        }
+    },
+    {
+        "global_id": "aed8d4c1c80e2bb2c46f62566a462bb1",
+        "display_label": "all-vwdl-s001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:33:25.748Z",
+            "root_actualdeletetime": "2023-03-29T06:33:25.748Z",
+            "root_lastaccesstime": "2023-02-17T06:33:25.748Z"
+        }
+    },
+    {
+        "global_id": "837654971fe5d96dc5383d131c56f5ee",
+        "display_label": "lit-vacp-b015",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:08:19.042Z",
+            "root_actualdeletetime": "2023-04-02T06:08:19.042Z",
+            "root_lastaccesstime": "2023-02-21T06:08:19.042Z"
+        }
+    },
+    {
+        "global_id": "bed8f5887195017ec7c615d640e7a8b5",
+        "display_label": "all-vach-p016",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:20:00.770Z",
+            "root_actualdeletetime": "2023-04-02T05:20:00.770Z",
+            "root_lastaccesstime": "2023-02-21T05:20:00.770Z"
+        }
+    },
+    {
+        "global_id": "da2f95d37b8df1f45a38eaad40e61ed2",
+        "display_label": "bp-vacp-p003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:40:21.880Z",
+            "root_actualdeletetime": "2023-04-02T05:40:21.880Z",
+            "root_lastaccesstime": "2023-02-21T05:40:21.880Z"
+        }
+    },
+    {
+        "global_id": "d12f0137f2164730d9c5280723848965",
+        "display_label": "all-vwms-s001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:20:15.692Z",
+            "root_actualdeletetime": "2023-04-02T05:20:15.692Z",
+            "root_lastaccesstime": "2023-02-21T05:20:15.692Z"
+        }
+    },
+    {
+        "global_id": "4489fc1cc960115192d862cd902c58df",
+        "display_label": "lit-vadl-b009",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-08T06:47:43.926Z",
+            "root_actualdeletetime": "2023-03-28T06:47:43.926Z",
+            "root_lastaccesstime": "2023-02-16T06:47:43.926Z"
+        }
+    },
+    {
+        "global_id": "1a6b5e42ba867d4a97547926675a12fe",
+        "display_label": "lit-vams-p006",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:49:43.199Z",
+            "root_actualdeletetime": "2023-04-02T06:49:43.199Z",
+            "root_lastaccesstime": "2023-02-21T06:49:43.199Z"
+        }
+    },
+    {
+        "global_id": "c5551ae77fc0921fdc61a471f21ebebc",
+        "display_label": "ohio012",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:18:10.471Z",
+            "root_actualdeletetime": "2023-04-02T06:18:10.471Z",
+            "root_lastaccesstime": "2023-02-21T06:18:10.471Z"
+        }
+    },
+    {
+        "global_id": "3f42b32be0fce4d8eb9f27a64bea10a3",
+        "display_label": "wok-vacp-p001",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-11T05:00:50.098Z",
+            "root_actualdeletetime": "2023-03-31T05:00:50.098Z",
+            "root_lastaccesstime": "2023-02-19T05:00:50.098Z"
+        }
+    },
+    {
+        "global_id": "49ebdd30c5a2ee89a5a42ce3b61d1e23",
+        "display_label": "bp-vams-s151",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:23:17.444Z",
+            "root_actualdeletetime": "2023-04-02T06:23:17.444Z",
+            "root_lastaccesstime": "2023-02-21T06:23:17.444Z"
+        }
+    },
+    {
+        "global_id": "2d34dac44e8e266f50e447a3dabc9775",
+        "display_label": "ohweb0070",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:38:07.893Z",
+            "root_actualdeletetime": "2023-04-02T06:38:07.893Z",
+            "root_lastaccesstime": "2023-02-21T06:38:07.893Z"
+        }
+    },
+    {
+        "global_id": "e05872e1ff2100d174a0df47d0868e3e",
+        "display_label": "osa-vams-b065",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:15:14.376Z",
+            "root_actualdeletetime": "2023-04-02T05:15:14.376Z",
+            "root_lastaccesstime": "2023-02-21T05:15:14.376Z"
+        }
+    },
+    {
+        "global_id": "dc0d0e9c881cf96ce514584f2f3a723b",
+        "display_label": "all-vwcp-s020",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:38:28.738Z",
+            "root_actualdeletetime": "2023-04-02T05:38:28.738Z",
+            "root_lastaccesstime": "2023-02-21T05:38:28.738Z"
+        }
+    },
+    {
+        "global_id": "5fc58db0d87ae77150a7af64638d1cd5",
+        "display_label": "ams741",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:50:06.105Z",
+            "dns_servers": [
+                "204.90.147.12",
+                "198.147.177.10",
+                "192.168.34.5",
+                "192.168.34.6",
+                "198.147.177.65"
+            ],
+            "root_actualdeletetime": "2023-04-02T06:50:06.105Z",
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ],
+            "root_lastaccesstime": "2023-02-21T06:50:06.105Z"
+        }
+    },
+    {
+        "global_id": "80fa31ced72f36d92ebd845199792d23",
+        "display_label": "all-vwdl-s004",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T06:01:26.568Z",
+            "root_actualdeletetime": "2023-04-02T06:01:26.568Z",
+            "root_lastaccesstime": "2023-02-21T06:01:26.568Z"
+        }
+    },
+    {
+        "global_id": "bdcd276b40bab7278637c29c9bea4ac9",
+        "display_label": "all-vams-b058",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:09:51.591Z",
+            "root_actualdeletetime": "2023-04-02T05:09:51.591Z",
+            "root_lastaccesstime": "2023-02-21T05:09:51.591Z"
+        }
+    },
+    {
+        "global_id": "a518b189fbb0e78b062f2a35ff525009",
+        "display_label": "tok-vams-b063",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T05:49:46.393Z",
+            "root_actualdeletetime": "2023-03-30T05:49:46.393Z",
+            "root_lastaccesstime": "2023-02-18T05:49:46.393Z"
+        }
+    },
+    {
+        "global_id": "14c481a25452f588d1390eb632b1d1e9",
+        "display_label": "amap9011",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-10T06:40:23.041Z",
+            "root_actualdeletetime": "2023-03-30T06:40:23.041Z",
+            "root_lastaccesstime": "2023-02-18T06:40:23.041Z"
+        }
+    },
+    {
+        "global_id": "d97f7dbfd8d36a563019967e61c5dcc8",
+        "display_label": "wok-vwms-b010",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.138",
+                "10.77.176.138",
+                "10.77.176.137",
+                "10.77.176.106"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "a478c0226f9825f3e42e602ad8d721a1",
+        "display_label": "am2-vams-b131",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "e547aaf4e4fe05c8d336673196cf8bca",
+        "display_label": "lit-vacp-b017",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-13T05:21:43.975Z",
+            "root_actualdeletetime": "2023-04-02T05:21:43.975Z",
+            "root_lastaccesstime": "2023-02-21T05:21:43.975Z"
+        }
+    },
+    {
+        "global_id": "22bed3a1c6ffdadbd4ea1e6733f2b0c7",
+        "display_label": "lit-vaweb-p003",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-12T05:36:30.057Z",
+            "root_actualdeletetime": "2023-04-01T05:36:30.057Z",
+            "root_lastaccesstime": "2023-02-20T05:36:30.057Z"
+        }
+    },
+    {
+        "global_id": "40e556e321ce281a853e29a38e6ee285",
+        "display_label": "lit-vadl-p010",
+        "changed_properties": {
+            "root_candidatefordeletetime": "2023-03-09T06:13:39.276Z",
+            "root_actualdeletetime": "2023-03-29T06:13:39.276Z",
+            "root_lastaccesstime": "2023-02-17T06:13:39.276Z"
+        }
+    }
+]

@@ -1,0 +1,503 @@
+[
+    {
+        "global_id": "432747f4344c362183dcb9176af675f9",
+        "display_label": "osa-vwme-p003",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "d969d8aaa04646bad34e0f4c113d82ff",
+        "display_label": "osa-vams-p058",
+        "changed_properties": {
+            "dns_servers": [
+                "10.36.17.106",
+                "10.36.17.173",
+                "10.36.17.53",
+                "10.36.17.174",
+                "10.36.17.107"
+            ]
+        }
+    },
+    {
+        "global_id": "73c5eb2f0312ca29c4d04afb6aebd2f0",
+        "display_label": "all-vwms-z004",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "a45da853365d324e2ab84497632e14d8",
+        "display_label": "lit-vams-b036",
+        "changed_properties": {
+            "dns_servers": [
+                "10.136.209.73",
+                "10.136.209.74",
+                "150.105.166.137",
+                "150.105.166.106"
+            ],
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "b278812e5be7e918f4e3dd790edc1e0f",
+        "display_label": "ohio492",
+        "changed_properties": {
+            "dns_servers": [
+                "204.90.224.4",
+                "198.147.177.10",
+                "204.90.147.5",
+                "198.151.186.51"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "a470c770055943b05c98bc62e5c57bd0",
+        "display_label": "lit-vams-p031",
+        "changed_properties": {
+            "dns_servers": [
+                "10.136.209.73",
+                "150.105.166.137",
+                "10.136.209.74",
+                "150.105.166.138",
+                "150.105.166.106"
+            ]
+        }
+    },
+    {
+        "global_id": "673f64318bae4eb46a2d4dc43fa5178c",
+        "display_label": "all-vams-s049",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "499f1ff56220ee1d9e4c9ffe4ca012c7",
+        "display_label": "wok-vams-p101",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "67bb7fd651de4ab62e5535462dbcb6f9",
+        "display_label": "all-vams-p037",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.73",
+                "150.105.198.137",
+                "150.105.198.106",
+                "150.105.198.138",
+                "10.138.209.74"
+            ],
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "a4444fdbe0a13a47627fb05ddc9677d9",
+        "display_label": "ohio462",
+        "changed_properties": {
+            "dns_servers": [
+                "198.147.177.10",
+                "198.151.186.51",
+                "204.90.224.1",
+                "198.151.186.43",
+                "204.90.147.12",
+                "192.168.243.5",
+                "192.168.243.6"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "5f0b703d7e2c2e87c60431506d7b016d",
+        "display_label": "lit-vams-b049",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.138",
+                "10.136.209.74",
+                "150.105.166.137",
+                "10.136.209.73",
+                "150.105.198.137",
+                "150.105.166.106"
+            ]
+        }
+    },
+    {
+        "global_id": "43ed8f24909a4833ce1ecb0eed665b68",
+        "display_label": "all-vams-b022",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "49f5137437ef9009fe52d574535ba4c7",
+        "display_label": "ohap0023",
+        "changed_properties": {
+            "dns_servers": [
+                "204.90.147.12",
+                "198.151.186.51",
+                "204.90.224.1"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "43cbf66ac8f163bcc69f87820755f3a3",
+        "display_label": "lit-vaswftm-p009",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "49a18a4e96aa52f625ecc9e0ee5732e7",
+        "display_label": "lit-vams-b060",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.198.137",
+                "150.105.166.106",
+                "150.105.166.138",
+                "150.105.166.137"
+            ]
+        }
+    },
+    {
+        "global_id": "b2b7330d21c93b35d47da9b9192f65e8",
+        "display_label": "lit-vams-b001",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.138",
+                "150.105.166.137",
+                "10.136.209.74",
+                "150.105.198.137",
+                "150.105.166.106",
+                "10.136.209.73"
+            ]
+        }
+    },
+    {
+        "global_id": "a4ba8bae35032684b8a8bd6d0fbe1ac3",
+        "display_label": "all-vdb02-b001",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "bb879058a28b353fcf9654d32f3bd174",
+        "display_label": "wok-vams-p120",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "bb3bc8bad6919cb96cea430540d0c3d1",
+        "display_label": "all-vams-u056",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.198.137",
+                "150.105.198.138"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "b28dd1a34836d81f6f4e0daad4f469a1",
+        "display_label": "lit-vams-p108",
+        "changed_properties": {
+            "dns_servers": [
+                "10.136.209.73",
+                "10.136.209.74",
+                "150.105.166.137",
+                "150.105.166.106"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "a4ae61da28212f7568322afcad8c50dc",
+        "display_label": "lit-vacp-p015",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.138",
+                "150.105.166.106",
+                "10.136.209.73",
+                "10.136.209.74",
+                "150.105.166.137"
+            ]
+        }
+    },
+    {
+        "global_id": "9907ced9c407b85fc74967ceea8108b6",
+        "display_label": "am2-vwos-p001",
+        "changed_properties": {
+            "dns_servers": [
+                "10.78.176.137",
+                "198.147.177.65",
+                "10.78.176.138"
+            ]
+        }
+    },
+    {
+        "global_id": "5f208ccc87f81a4510dcf566fe2b0786",
+        "display_label": "all-vams-s018",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.73",
+                "150.105.198.137",
+                "150.105.198.106",
+                "10.138.209.74",
+                "150.105.198.138"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "5f15cb2b92cf0d66058b10635305789b",
+        "display_label": "all-vaihub-p001",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.137",
+                "150.105.198.137",
+                "150.105.198.138",
+                "150.105.198.106",
+                "10.138.209.73",
+                "10.138.209.74"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "f55dae43224a84ccdc8a13d5e9809334",
+        "display_label": "all-vams-b055",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.198.106",
+                "10.138.209.74",
+                "10.138.209.73",
+                "150.105.198.137"
+            ]
+        }
+    },
+    {
+        "global_id": "43d6bf4f62fa47279d0359de72fb7402",
+        "display_label": "all-vaweb-p003",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.198.137",
+                "10.138.209.74",
+                "150.105.198.106",
+                "150.105.198.138",
+                "10.138.209.73"
+            ]
+        }
+    },
+    {
+        "global_id": "43497c6951ec716a6eebbb3f44e4bd61",
+        "display_label": "all-vams-z119",
+        "changed_properties": {
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "4979aa5d0455a165bc1fec49b80eaa37",
+        "display_label": "lit-vams-b006",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.137",
+                "150.105.166.106",
+                "10.136.209.73",
+                "10.136.209.74"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "434c2d498a1b0a0af6f5d991d8298958",
+        "display_label": "all-vams-b051",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.198.137",
+                "150.105.198.106",
+                "10.138.209.73",
+                "10.138.209.74"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "5f588ed106a312b2366e93b709ffade7",
+        "display_label": "all-vwms-p009",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.73",
+                "150.105.198.138",
+                "150.105.198.137",
+                "10.138.209.74",
+                "150.105.198.106"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "a44e9a9f5a54a101e943077bd1d8b697",
+        "display_label": "all-vams-s126",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    },
+    {
+        "global_id": "a46a159d2dd6a9bcb2a95a418b96ed01",
+        "display_label": "all-vwms-b005",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.73",
+                "10.138.209.74",
+                "150.105.198.106",
+                "150.105.198.138",
+                "150.105.198.137"
+            ]
+        }
+    },
+    {
+        "global_id": "99df265c508b2d717f9845cf0ff43193",
+        "display_label": "lit-vams-b053",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.137",
+                "10.136.209.74",
+                "150.105.166.106",
+                "10.136.209.73"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "43d90b550e81a17b3c560d144f232225",
+        "display_label": "all-vams-s046",
+        "changed_properties": {
+            "dns_servers": [
+                "10.138.209.74",
+                "10.138.209.73",
+                "150.105.198.106",
+                "150.105.198.138",
+                "150.105.198.137"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "5fc58db0d87ae77150a7af64638d1cd5",
+        "display_label": "ams741",
+        "changed_properties": {
+            "dns_servers": [
+                "204.90.147.12",
+                "198.147.177.10",
+                "192.168.34.5",
+                "192.168.34.6",
+                "198.147.177.65"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "d97f7dbfd8d36a563019967e61c5dcc8",
+        "display_label": "wok-vwms-b010",
+        "changed_properties": {
+            "dns_servers": [
+                "150.105.166.138",
+                "10.77.176.138",
+                "10.77.176.137",
+                "10.77.176.106"
+            ],
+            "node_role": [
+                "server",
+                "virtualized_system"
+            ]
+        }
+    },
+    {
+        "global_id": "a478c0226f9825f3e42e602ad8d721a1",
+        "display_label": "am2-vams-b131",
+        "changed_properties": {
+            "node_role": [
+                "virtualized_system",
+                "server"
+            ]
+        }
+    }
+]
