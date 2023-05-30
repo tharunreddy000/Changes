@@ -1,1 +1,94 @@
-duplicate file
+[
+    {
+        "global_id": "4eae67813936eff59c828536d8797c10",
+        "display_label": "osa-vams-p080",
+        "changed_properties": {
+            "swap_memory_size": "4115 ; Percentage Change= -32.706",
+            "memory_size": "23944 ; Percentage Change= +103.191%"
+        },
+        "previous_properties": {
+            "swap_memory_size": 6115,
+            "memory_size": 11784
+        }
+    },
+    {
+        "global_id": "0c92ed64177a270d2226047f39d9a8cc",
+        "display_label": "lit-vams-b102",
+        "changed_properties": {
+            "discovered_os_version": "3.10.0-1160.88.1.el7.x86_64",
+            "discovered_os_name": "Red Hat Enterprise Linux Server release 7.9 (Maipo)"
+        },
+        "previous_properties": {
+            "discovered_os_version": "3.10.0-957.27.2.el7.x86_64",
+            "discovered_os_name": "Red Hat Enterprise Linux Server release 7.6 (Maipo)"
+        }
+    },
+    {
+        "global_id": "a388e98b008643d162d942ca485e66a9",
+        "display_label": "all-vams-p140",
+        "changed_properties": {
+            "discovered_os_version": "3.10.0-1160.88.1.el7.x86_64",
+            "ot_os_eol_date": "2024-06-30T00:00:00.000Z",
+            "ot_ip_address": "10.138.51.183",
+            "ot_ip_netmask": "10.138.50.0",
+            "ud_unique_id": "all-vams-p140",
+            "root_enableageing": true,
+            "data_updated_by": "OCS PROD: DS_OCS PROD_Nodes",
+            "discovered_os_name": "Red Hat Enterprise Linux Server release 7.9 (Maipo)",
+            "xx_ocs_id": 2981505
+        },
+        "previous_properties": {
+            "discovered_os_version": "3.10.0-862.3.2.el7.x86_64",
+            "root_enableageing": false,
+            "data_updated_by": "Enrichment: Enrichment's rule: OT_ESX_location_to_VM",
+            "discovered_os_name": "Red Hat Enterprise Linux Server release 7.3 (Maipo)",
+            "xx_ocs_id": 282824
+        }
+    },
+    {
+        "global_id": "472384bba27269b793bb433d81f74259",
+        "display_label": "tok-vams-b080",
+        "changed_properties": {
+            "discovered_os_version": "3.10.0-1160.66.1.el7.x86_64",
+            "memory_size": "23939 ; Percentage Change= +103.148%"
+        },
+        "previous_properties": {
+            "discovered_os_version": "3.10.0-1160.62.1.el7.x86_64",
+            "memory_size": 11784
+        }
+    },
+    {
+        "global_id": "4b04bdf1da8f35198945b0cde7949609",
+        "display_label": "tok-vams-p080",
+        "changed_properties": {
+            "discovered_os_version": "3.10.0-1160.66.1.el7.x86_64"
+        },
+        "previous_properties": {
+            "discovered_os_version": "3.10.0-1160.62.1.el7.x86_64"
+        }
+    },
+    {
+        "global_id": "4b72ea8eb9acb297a17502ffa473d320",
+        "display_label": "osa-vams-b081",
+        "changed_properties": {
+            "discovered_os_version": "3.10.0-1160.66.1.el7.x86_64"
+        },
+        "previous_properties": {
+            "discovered_os_version": "3.10.0-1160.62.1.el7.x86_64"
+        }
+    },
+    {
+        "global_id": "48aaa08a95bdeb7c972c410119de44a5",
+        "display_label": "osa-vams-b080",
+        "changed_properties": {
+            "discovered_os_version": "3.10.0-1160.66.1.el7.x86_64",
+            "data_updated_by": "OCS PROD: DS_OCS PROD_Nodes",
+            "memory_size": "23939 ; Percentage Change= +103.148%"
+        },
+        "previous_properties": {
+            "discovered_os_version": "3.10.0-1160.62.1.el7.x86_64",
+            "data_updated_by": "Enrichment: Enrichment's rule: OT update node environment Pre-Prod",
+            "memory_size": 11784
+        }
+    }
+]
